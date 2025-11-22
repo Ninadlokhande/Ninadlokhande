@@ -1,137 +1,144 @@
-<!-- HEADER -->
+<!-- BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/6u1hWcT.png" width="100%" alt="Tech Banner">
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ninad+Lokhande;Robotics+Engineer+%7C+Embedded+Developer;Full-Stack+Software+Developer;I+Build+Systems+That+Think%2C+Sense%2C+and+Move" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=900&color=0AEFFF&center=true&vCenter=true&width=800&lines=Ninad+Lokhande;Robotics+Engineer+%7C+Embedded+Systems+Developer;Software+Engineer+%7C+System+Architect" />
 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Robotics-Autonomous%20Systems-orange?style=for-the-badge&logo=robotframework&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded%20Systems-Microcontrollers-blueviolet?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software%20Engineer-Java%20%7C%20Python-red?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20User-Ubuntu%20%7C%20Raspberry%20Pi-green?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Linux%20%7C%20Ubuntu-Power%20User-green?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-Java%20%7C%20Python-red?style=for-the-badge" />
 </p>
 
 ---
 
-# 🧭 **About Me**
+# 🚀 About Me
 
-I work where **software, electronics, robotics, and AI** meet.  
-I build complete systems — from **PCB design & sensor integration** to **firmware**, to **control algorithms**, to **applications** running on Linux machines and microcontrollers.
+I'm a multidisciplinary engineer working across **Robotics, Embedded Systems, and Software Engineering** — building solutions that think, sense, and move.
 
-I enjoy:
-- Building robots  
-- Writing clean, efficient software  
-- Creating embedded systems that interact with the real world  
-- Automating everything possible  
-- Learning new tools across software + hardware stacks  
+My work spans the full pipeline:
 
-If it involves **logic + hardware + code**, I’m in.
+**Hardware → Firmware → Algorithms → Software → Testing & Optimization**
+
+I enjoy making systems that are:
+- **Real-world interacting**
+- **Autonomous**
+- **Efficient**
+- **Beautifully engineered**
+
+Robots, microcontrollers, clean code — that’s my playground.
 
 ---
 
-# ⚙️ **Technical Skill Set**
+# ⚙️ Technical Skills
 
-## 🧠 Programming & Software
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css" />
+## 🧠 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css" height="45"/>
 </p>
 
-- Object-Oriented Design  
-- Data Structures & Algorithms  
-- Multithreading & Concurrency  
-- APIs, automation, scripting  
-- MicroPython, Embedded C  
+- Java (primary language)
+- C/C++ for embedded systems  
+- Python for automation & ML  
+- MicroPython  
+- HTML/CSS/JS for basic frontend  
 
 ---
 
-## 🐧 Operating Systems
-<p align="left">
+## 🐧 Operating Systems & Platforms
+<p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi" height="45"/>
 </p>
 
-- Ubuntu Linux (daily driver)  
-- Raspberry Pi OS  
-- Software installation via CLI  
+- Ubuntu/Linux CLI  
+- Raspberry Pi OS (GPIO, I2C, SPI, UART)  
 - Bash scripting  
-- System services, GPIO control  
+- System services  
 
 ---
 
-## 🤖 Robotics, Motion & Control
-- PID control (LSA08, line following, motors)  
-- IR + Ultrasonic + Encoder-based navigation  
-- 2D/3D robot kinematics (forward & inverse)  
-- Differential drive motion planning  
-- Sensor fusion & calibration  
-- Autonomous maze solving  
+## 🤖 Robotics, Dynamics & Control
+
+- PID Control (line tracking, motor speed control)  
+- LSA08 Line Sensor tuning  
+- Maze solving (IR, ultrasonic)  
+- Forward & Inverse Kinematics (2-DOF/4-DOF arms)  
+- Differential drive robot motion  
+- Sensor fusion basics (IR + Ultrasonic)  
+- Motion planning fundamentals  
 
 ---
 
 ## 🔌 Microcontrollers & Boards
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="45"/> 
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="45"/>
 </p>
 
-- Arduino Uno / Nano / Mega  
-- ESP32 (WiFi, BLE, RTOS tasks)  
-- Raspberry Pi Pico (RP2040) — Dual-core, PIO  
-- Raspberry Pi 4B — Robotics, automation  
-- STM32 (Blue Pill, Nucleo)  
+- Arduino UNO / Nano / Mega  
+- ESP32 (WiFi/BLE + dual-core processing)  
+- Raspberry Pi Pico (RP2040, PIO programming)  
+- Raspberry Pi 4B  
+- STM32 (CubeIDE, HAL)  
 - PIC18F4520  
-- MicroPython on ESP32/Pico  
-- Thonny IDE for Python-based MCU programming  
+- MicroPython on Pico & ESP32  
 
 ---
 
-## 🛠 Embedded & Hardware Tools
-- KiCad — PCB Design  
-- Eagle — Circuit design  
-- Proteus — Simulation  
-- MPLAB X — PIC microcontrollers  
-- STM32CubeIDE — HAL/LL development  
-- Arduino IDE  
-- PlatformIO  
-- Oscilloscopes, multimeters, breadboards  
-- UART, SPI, I2C communications  
+## 📡 Sensors, Actuators & Modules
+
+- Ultrasonic HC-SR04  
+- IR sensors + LSA08 array  
+- Encoders  
+- DHT11, MQ2  
+- HC-05 Bluetooth  
+- L298N, TB6612, DRV8833  
+- Servo, DC motors, pumps  
 
 ---
 
-## 📦 Software Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,replit" />
+## 🛠 Tools & Software
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,kicad,arduino,eclipse" height="45"/>
 </p>
 
-- Git & GitHub (branching, PRs, commits)  
-- VS Code  
-- IntelliJ IDEA  
-- SciLab / MATLAB (signals, plots)  
-- Jupyter Notebook  
-- Power BI & Tableau  
+- KiCad / Eagle (PCB Design)  
+- Proteus (simulation)  
+- STM32CubeIDE  
+- MPLAB X  
+- Arduino IDE / PlatformIO  
+- SciLab / MATLAB basics  
+- Power BI / Tableau  
+- Git & GitHub  
 
 ---
 
 # 🏆 Featured Projects
 
 ### 🔹 **Mad Lab Game (Java)**
-Console-based interactive game with difficulty levels and scoring.
+Clean console game with difficulty levels + scoring.
 
 ### 🔹 **Line Follower Robot**
-LSA08 + PID tuning + custom chassis & PCB.
+PID-controlled line follower using LSA08 + custom PCB.
 
 ### 🔹 **Ultrasonic Maze Solver**
-Obstacle-detecting autonomous robot with intelligent navigation.
+Real-time distance-based autonomous navigation.
 
 ### 🔹 **IR Maze Solver**
-Wall-detection robot using IR sensing pairs.
+Wall detection + intelligent decision logic.
 
-### 🔹 **Res-Q Navigator**
-Fire + smoke detection robot with water deployment + Bluetooth controls.
+### 🔹 **Res-Q Navigator Robot**
+Fire/smoke detection + water pump + Bluetooth control.
 
-### 🔹 **Wireless EV Charger Prototype**
+### 🔹 **Wireless EV Charging Prototype**
 Coil-based wireless power transfer system.
 
 ---
 
-# 💡 Contributions & Coding Activity
+# 📊 Contributions & Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ninadlokhande&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
@@ -142,9 +149,14 @@ Coil-based wireless power transfer system.
   <img src="https://streak-stats.demolab.com?user=Ninadlokhande&theme=tokyonight&hide_border=true" width="60%">
 </p>
 
+<!-- 3D CONTRIBUTION GRAPH -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/master/profile-night-rainbow.svg" width="100%">
+</p>
+
 ---
 
-# 📡 Connect With Me
+# 🤝 Connect With Me
 
 📧 **Email:** lokhandeninad1010@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ninad-lokhande-b71ba6281  
@@ -153,5 +165,5 @@ Coil-based wireless power transfer system.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=1000&color=00E5FF&center=true&width=750&lines=Robotics+is+the+art+of+making+ideas+move.;Software+is+how+we+teach+the+machine+to+think." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=1000&color=00E5FF&center=true&width=750&lines=Robots+are+how+I+shape+ideas+into+reality.;Software+is+how+I+teach+machines+to+think." />
 </p>
