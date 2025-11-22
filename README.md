@@ -134,12 +134,27 @@ CNN built from scratch.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ninadlokhande&theme=tokyonight&hide_border=true" width="60%" />
 </p>
+## 📆 Matrix-Style Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ninadlokhande&theme=github-dark&hide_border=true&ring=00e676&fire=00e676&currStreakLabel=00e676" />
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=github-dark&area=true&color=00e676&point=00e676&line=00e676&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=react-dark&hide_border=true&area=true&color=00e676&line=00e676&point=00e676" />
+</p>
+## 🏅 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ninadlokhande&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15" />
+</p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Ninadlokhande/Ninadlokhande/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
