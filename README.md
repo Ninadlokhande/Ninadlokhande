@@ -2,9 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ninad+Lokhande;Robotics+Developer+%7C+Embedded+Systems+Engineer;Software+Engineer+%7C+System+Builder" />
 </h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsnotdark/matrix-rain-svg/master/matrix.svg" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Robotics-Autonomous%20Systems-orange?style=for-the-badge&logo=robotframework&logoColor=white" />
@@ -144,21 +142,6 @@ CNN built from scratch.
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=github-dark&area=true&color=00e676&point=00e676&line=00e676&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=react-dark&hide_border=true&area=true&color=00e676&line=00e676&point=00e676" />
-</p>
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Ninadlokhande/Ninadlokhande/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-## 🏅 GitHub Achievements
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ToMjGpFvYV2k9C4KxYg/giphy.gif" width="400"/>
 </p>
 
 
