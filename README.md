@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ninad+Lokhande;Robotics+Developer+%7C+Embedded+Systems+Engineer;Software+Engineer+%7C+System+Builder" />
 </h1>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Robotics-Autonomous%20Systems-orange?style=for-the-badge&logo=robotframework&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded-Systems%20Developer-blueviolet?style=for-the-badge&logo=arduino&logoColor=white" />
@@ -105,23 +104,28 @@ If it senses, computes, moves, or interacts — I build it.
 
 # 🏆 Projects
 
-### 🔹 Line Follower Robot  
-PID tuned using IR Sensor + custom motor driver board.
+### 🔹 Robotics & Embedded Systems  
+- Line Follower Robot (PID tuned using IR Sensor + custom motor driver board)  
+- Ultrasonic Maze Solver  
+- IR Maze Solver  
+- Res-Q Navigator (fire/smoke detection + pump + Bluetooth)  
+- Wireless EV Charging (inductive power transfer)  
 
-### 🔹 Ultrasonic Maze Solver  
-Distance-based navigation system.
+### 🔹 Software & AI  
+- CIFAR-10 Classifier (CNN from scratch)
 
-### 🔹 IR Maze Solver  
-Parallel IR wall-detection algorithm.
+---
 
-### 🔹 Res-Q Navigator  
-Fire + smoke detection + pump + Bluetooth app.
+# 📂 Google Drive Project Showcase
 
-### 🔹 Wireless EV Charging  
-Inductive power transfer prototype.
+Here you show your full project folder publicly:
 
-### 🔹 CIFAR-10 Classifier  
-CNN built from scratch.
+### 🔗 **Project Folder:**  
+**https://drive.google.com/drive/folders/1ReHJMZ0k39349MRjhto9cTrTQ5jcgXug?usp=sharing**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Drive-Project%20Showcase-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
+</p>
 
 ---
 
@@ -135,15 +139,15 @@ CNN built from scratch.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ninadlokhande&theme=tokyonight&hide_border=true" width="60%" />
 </p>
-## 📆 Matrix-Style Contribution Graph
 
+## 📆 Matrix-Style Contribution Graph
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ninadlokhande&theme=github-dark&hide_border=true&ring=00e676&fire=00e676&currStreakLabel=00e676" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=github-dark&area=true&color=00e676&point=00e676&line=00e676&hide_border=true" />
 </p>
-
 
 ---
 
