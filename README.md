@@ -5,146 +5,126 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Robotics-Autonomous%20Systems-orange?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded-Developer-blueviolet?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded-Systems%20Developer-blueviolet?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux%20User-Ubuntu%20%7C%20Raspberry%20Pi-green?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Java%20%7C%20C%20%7C%20C++-Programmer-red?style=for-the-badge&logo=codemagic&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🧠 About Me
 
-I build **real‑world interactive systems** — robots that think, circuits that react, and software that binds everything with precision.
-
-My expertise spans the full engineering pipeline:
+Engineering student building **real-world robotic systems**, hands-on with:
 
 **Electronics → Firmware → Control Algorithms → Robotics → Software → Optimization**
 
-I love creating:
-- Robots engineered from scratch
-- Firmware that gives machines behavior
-- Linux‑based automation systems
-- Experimental hardware + software integrations
-- Tools that turn complexity into control
+I create:
+- Autonomous robots  
+- Embedded firmware  
+- Linux-based automation  
+- System integrations  
+- Practical hardware–software tools  
 
-If it senses, computes, moves, or collaborates — I build it.
+If it senses, computes, moves, or interacts — I build it.
 
 ---
 
-## ⚙️ Technical Skill Map
+# ⚙️ Technical Skills
 
-### 🧠 Programming
+## 🧠 Programming
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css" height="45" />
 </p>
 
-- Object‑oriented design
-- Data Structures & Algorithms
-- Multithreading & concurrency
-- Python scripting & automation
-- MicroPython for embedded systems
+- OOP, multithreading, DSA  
+- Python automation  
+- MicroPython firmware  
 
 ---
 
-### 🐧 Operating Systems & Platforms
+## 🐧 Operating Systems & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi" height="45" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi,windows" height="45" />
 </p>
 
-- Linux workflow & system operations
-- Raspberry Pi robotics & automation
-- System services (systemd)
-- Networking (SSH, sockets, serial)
-- Shell scripting
+- Linux systems, services, shell scripting  
+- Raspberry Pi robotics  
+- Networking (SSH, sockets)  
 
 ---
 
-### 🤖 Robotics, Dynamics & Kinematics
-
-- PID tuning (LSA08 + motor control)
-- Precision line following & wall following
-- Autonomous maze solving
-- 2‑DOF & 4‑DOF kinematics
-- Differential‑drive robot modeling
-- Basic inverse kinematics
-- Sensor fusion (IR + Ultrasonic + Temp)
-- Stable embedded control loops
-
----
-
-### 🔌 Microcontrollers, SBCs & Firmware
+## 🔌 Microcontrollers
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="42" />
+  <img src="https://img.shields.io/badge/Arduino-Uno%20%7C%20Mega%20%7C%20Nano-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESP32-Dual%20Core%20%7C%20WiFi%20%7C%20BLE-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-Pico%20RP2040-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PIC18F4520-Advanced%20MCU-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STM32-CubeIDE%20%7C%20HAL-lightgrey?style=for-the-badge" />
 </p>
 
-- Arduino UNO/Nano/Mega
-- ESP32 (WiFi, BLE, dual‑core, FreeRTOS)
-- Raspberry Pi 4B automation
-- Raspberry Pi Pico (RP2040 + PIO)
-- STM32 (CubeIDE, HAL)
-- PIC18F4520 (Timers, ADC, interrupts)
-- UART / SPI / I2C communications
-- MicroPython firmware
+- UART / SPI / I2C  
+- Timers, ADC, PWM, interrupts  
+- FreeRTOS (ESP32)  
 
 ---
 
-### 📡 Sensors, Actuators & Modules
-
-- IR sensors & LSA08 arrays
-- HC‑SR04 ultrasonic
-- Encoders & feedback control
-- DHT11, MQ2 environmental sensors
-- DC motors, servos, pumps
-- L298N, TB6612, DRV8833 drivers
-- Bluetooth HC‑05
-- Wireless power transfer coils
-- Relay & MOSFET circuits
-
----
-
-### 🛠 Engineering Tools & Software
+## 📡 Sensors & Actuators
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,eclipse" height="45" />
+  <img src="https://img.shields.io/badge/Ultrasonic-HC--SR04-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IR%20Array-LSA08-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DHT11-Temp%20%26%20Humidity-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MQ2-Smoke%20Sensor-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/L298N%20%7C%20TB6612-Motor%20Drivers-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HC--05-Bluetooth-lightblue?style=for-the-badge" />
 </p>
 
-- KiCad PCB design
-- Eagle schematics
-- Proteus simulation
-- STM32CubeIDE
-- MPLAB X
-- Arduino IDE / PlatformIO
-- SciLab / MATLAB basics
-- Data tools: Power BI, Tableau
-- Jupyter Notebook
+---
+
+## 🤖 Robotics, Dynamics & Control
+- PID tuning (LSA08)  
+- Differential-drive modeling  
+- Maze solving (IR + ultrasonic)  
+- Kinematics (2-DOF, 4-DOF)  
+- Real-time control loops  
+- Sensor fusion  
 
 ---
 
-## 🏆 Featured Projects
-
-### 🔹 **Mad Lab Game (Java)**
-Interactive console game with dynamic difficulty systems.
-
-### 🔹 **Line Follower Robot**
-LSA08 reflectance array + PID tuning + custom motor PCB.
-
-### 🔹 **Ultrasonic Maze Solver**
-Path logic + obstacle distance computation.
-
-### 🔹 **IR Maze Solver**
-High‑precision wall detection using IR sensor pairs.
-
-### 🔹 **Res‑Q Navigator Robot**
-Fire, smoke, heat detection + pump activation + HC‑05.
-
-### 🔹 **Wireless EV Charging Prototype**
-Inductive power transfer with custom‑wound coils.
-
-### 🔹 **CIFAR‑10 Recognition**
-Custom CNN for image classification experiments.
+## 🛠 Tools & Software
+<p>
+  <img src="https://img.shields.io/badge/KiCad-PCB%20Design-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Proteus-Simulation-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STM32CubeIDE-Firmware-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MPLAB-X%20IDE-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-Computing-orange?style=for-the-badge" />
+</p>
 
 ---
 
-## ⏳ Contribution Activity
+# 🏆 Projects
+
+### 🔹 Line Follower Robot  
+PID tuned using LSA08 + custom motor driver board.
+
+### 🔹 Ultrasonic Maze Solver  
+Distance-based navigation system.
+
+### 🔹 IR Maze Solver  
+Parallel IR wall-detection algorithm.
+
+### 🔹 Res-Q Navigator  
+Fire + smoke detection + pump + Bluetooth app.
+
+### 🔹 Wireless EV Charging  
+Inductive power transfer prototype.
+
+### 🔹 CIFAR-10 Classifier  
+CNN built from scratch.
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ninadlokhande&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -157,11 +137,11 @@ Custom CNN for image classification experiments.
 
 ---
 
-## 🌎 Connect With Me
+# 🌐 Connect With Me
 
 📧 **Email:** lokhandeninad1010@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ninad-lokhande-b71ba6281  
-🐙 **GitHub:** https://github.com/Ninadlokhande
+🐙 **GitHub:** https://github.com/Ninadlokhande  
 
 ---
 
