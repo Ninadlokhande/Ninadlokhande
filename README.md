@@ -135,6 +135,10 @@ CNN built from scratch.
   <img src="https://streak-stats.demolab.com?user=Ninadlokhande&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=github-dark&area=true&color=00e676&point=00e676&line=00e676&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=react-dark&hide_border=true&area=true&color=00e676&line=00e676&point=00e676" />
 </p>
 
