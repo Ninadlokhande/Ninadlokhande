@@ -1,106 +1,137 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff">Ninad Lokhande</span></h1>
-<h3 align="center">Robotics • Embedded Systems • Software Development</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ninad+Lokhande;Robotics+Engineer+%7C+Embedded+Developer;Full-Stack+Software+Developer;I+Build+Systems+That+Think%2C+Sense%2C+and+Move" />
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engineering%20Student-ENTC-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Robotics-Developer-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-Engineer-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-Programmer-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Robotics-Autonomous%20Systems-orange?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-Microcontrollers-blueviolet?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-Java%20%7C%20Python-red?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20User-Ubuntu%20%7C%20Raspberry%20Pi-green?style=for-the-badge&logo=linux" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 🧭 **About Me**
 
-I build robots, write embedded firmware, design electronics, and make ideas move in the real world.  
-From **microcontrollers → sensors → motion control → software**, I love the full engineering pipeline.
+I work where **software, electronics, robotics, and AI** meet.  
+I build complete systems — from **PCB design & sensor integration** to **firmware**, to **control algorithms**, to **applications** running on Linux machines and microcontrollers.
 
-I enjoy creating systems that sense, think, and act — whether it’s a maze solver, a line follower, or a safety robot.
+I enjoy:
+- Building robots  
+- Writing clean, efficient software  
+- Creating embedded systems that interact with the real world  
+- Automating everything possible  
+- Learning new tools across software + hardware stacks  
 
----
-
-# ⚙️ Skill Map
-
-### 👨‍💻 Programming
-Java · C · C++ · Python · Embedded C  
-HTML · CSS · JavaScript · MATLAB (basics)
-
----
-
-### 🤖 Robotics, Dynamics & Kinematics
-- Forward & inverse kinematics (2-DOF/4-DOF robotic arms)  
-- Differential-drive motion & steering algorithms  
-- Basic robot dynamics (load torque, inertia, motor modeling)  
-- PID control (manual + Ziegler–Nichols tuning)  
-- Maze solving, line following, wall following  
-- Sensor fusion (IR + Ultrasonic + Encoders)
+If it involves **logic + hardware + code**, I’m in.
 
 ---
 
-### 🔧 Microcontrollers, SBCs & Firmware
-- **Arduino** (UNO, Nano, Mega)  
-- **ESP32** (WiFi, BLE, RTOS-style tasks)  
-- **PIC18F4520** (Timers, ADC, interrupts, LCD/keypad)  
-- **Raspberry Pi Pico (RP2040)** — Dual-core, PIO, MicroPython, C SDK  
-- **Raspberry Pi 4B** — GPIO, I2C/SPI/UART, Python automation, OpenCV  
-- Honeywell MQ sensors · DHT sensors · Thermal & ambient modules
+# ⚙️ **Technical Skill Set**
+
+## 🧠 Programming & Software
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css" />
+</p>
+
+- Object-Oriented Design  
+- Data Structures & Algorithms  
+- Multithreading & Concurrency  
+- APIs, automation, scripting  
+- MicroPython, Embedded C  
 
 ---
 
-### 📡 Sensors & Modules
-Ultrasonic HC-SR04 · IR Reflective Sensors  
-LSA08 Line Array · Encoders  
-MQ2 (smoke) · DHT11 (temp/humidity)  
-Bluetooth HC-05 · IMU (MPU6050 basics)  
-Water sensors · RF modules  
+## 🐧 Operating Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi" height="45"/>
+</p>
+
+- Ubuntu Linux (daily driver)  
+- Raspberry Pi OS  
+- Software installation via CLI  
+- Bash scripting  
+- System services, GPIO control  
 
 ---
 
-### ⚙️ Electronics & Hardware
-- PCB design (KiCad, Eagle)  
-- Drivers: L298N · TB6612FNG · DRV8833  
-- PWM, H-bridge control, level shifting  
-- Power electronics, voltage regulation, protection circuits  
+## 🤖 Robotics, Motion & Control
+- PID control (LSA08, line following, motors)  
+- IR + Ultrasonic + Encoder-based navigation  
+- 2D/3D robot kinematics (forward & inverse)  
+- Differential drive motion planning  
+- Sensor fusion & calibration  
+- Autonomous maze solving  
 
 ---
 
-### 🛠 Software & Tools
-VS Code · IntelliJ · MPLAB X  
-Proteus · KiCad · Eagle  
-Git · GitHub  
-Jupyter Notebook · Tableau · Power BI  
+## 🔌 Microcontrollers & Boards
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="45"/> 
+</p>
+
+- Arduino Uno / Nano / Mega  
+- ESP32 (WiFi, BLE, RTOS tasks)  
+- Raspberry Pi Pico (RP2040) — Dual-core, PIO  
+- Raspberry Pi 4B — Robotics, automation  
+- STM32 (Blue Pill, Nucleo)  
+- PIC18F4520  
+- MicroPython on ESP32/Pico  
+- Thonny IDE for Python-based MCU programming  
+
+---
+
+## 🛠 Embedded & Hardware Tools
+- KiCad — PCB Design  
+- Eagle — Circuit design  
+- Proteus — Simulation  
+- MPLAB X — PIC microcontrollers  
+- STM32CubeIDE — HAL/LL development  
+- Arduino IDE  
+- PlatformIO  
+- Oscilloscopes, multimeters, breadboards  
+- UART, SPI, I2C communications  
+
+---
+
+## 📦 Software Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,replit" />
+</p>
+
+- Git & GitHub (branching, PRs, commits)  
+- VS Code  
+- IntelliJ IDEA  
+- SciLab / MATLAB (signals, plots)  
+- Jupyter Notebook  
+- Power BI & Tableau  
 
 ---
 
 # 🏆 Featured Projects
 
 ### 🔹 **Mad Lab Game (Java)**
-A fully interactive Java Mad Libs game with difficulty levels, scoring, and clean modular design.
+Console-based interactive game with difficulty levels and scoring.
 
-### 🔹 **Line-Follower Robot**
-PID-based steering, custom PCB, LSA08 sensor array, precise turning and speed control.
+### 🔹 **Line Follower Robot**
+LSA08 + PID tuning + custom chassis & PCB.
 
 ### 🔹 **Ultrasonic Maze Solver**
-Real-time obstacle detection and path decision system using ultrasonic ranging.
+Obstacle-detecting autonomous robot with intelligent navigation.
 
 ### 🔹 **IR Maze Solver**
-Four-sensor IR wall detection with custom navigation logic.
+Wall-detection robot using IR sensing pairs.
 
-### 🔹 **Res-Q Navigator Robot**
-Fire + smoke detection, obstacle avoidance, Bluetooth control, auto water-spray safety system.
+### 🔹 **Res-Q Navigator**
+Fire + smoke detection robot with water deployment + Bluetooth controls.
 
----
-
-# 🧩 Contributions & Learning
-- Exploring **robot dynamics**, **multi-sensor fusion**, **motor control theory**  
-- Learning **ROS2**, **OpenCV**, and **SLAM basics**  
-- Contributing to open robotics projects & microcontroller tutorials  
-- Improving Java structure, OOP, and clean code practices  
+### 🔹 **Wireless EV Charger Prototype**
+Coil-based wireless power transfer system.
 
 ---
 
-# 📊 GitHub Analytics
+# 💡 Contributions & Coding Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ninadlokhande&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
@@ -113,7 +144,7 @@ Fire + smoke detection, obstacle avoidance, Bluetooth control, auto water-spray 
 
 ---
 
-# 🌐 Connect With Me
+# 📡 Connect With Me
 
 📧 **Email:** lokhandeninad1010@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ninad-lokhande-b71ba6281  
@@ -122,5 +153,5 @@ Fire + smoke detection, obstacle avoidance, Bluetooth control, auto water-spray 
 ---
 
 <p align="center">
-  <em>“Robotics is not just building machines. It’s building possibilities.”</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=1000&color=00E5FF&center=true&width=750&lines=Robotics+is+the+art+of+making+ideas+move.;Software+is+how+we+teach+the+machine+to+think." />
 </p>
