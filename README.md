@@ -32,7 +32,7 @@ If it senses, computes, moves, or interacts — I build it.
 # ⚙️ Technical Skills
 
 ## 🧠 Programming
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css" height="45" />
 </p>
 
@@ -43,7 +43,7 @@ If it senses, computes, moves, or interacts — I build it.
 ---
 
 ## 🐧 Operating Systems & Platforms
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi,windows" height="45" />
 </p>
 
@@ -54,7 +54,7 @@ If it senses, computes, moves, or interacts — I build it.
 ---
 
 ## 🔌 Microcontrollers
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Arduino-Uno%20%7C%20Mega%20%7C%20Nano-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ESP32-Dual%20Core%20%7C%20WiFi%20%7C%20BLE-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-Pico%20RP2040-red?style=for-the-badge" />
@@ -69,7 +69,7 @@ If it senses, computes, moves, or interacts — I build it.
 ---
 
 ## 📡 Sensors & Actuators
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Ultrasonic-HC--SR04-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IR%20Array-LSA08-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DHT11-Temp%20%26%20Humidity-yellow?style=for-the-badge" />
@@ -83,15 +83,15 @@ If it senses, computes, moves, or interacts — I build it.
 ## 🤖 Robotics, Dynamics & Control
 - PID tuning  
 - Differential-drive modeling  
-- Maze solving (IR + ultrasonic)  
-- Kinematics (2-DOF, 4-DOF, 6-DOF)  
+- Maze-solving (IR + ultrasonic)  
+- Kinematics (2-DOF to 6-DOF)  
 - Real-time control loops  
 - Sensor fusion  
 
 ---
 
 ## 🛠 Tools & Software
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/KiCad-PCB%20Design-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Proteus-Simulation-lightgrey?style=for-the-badge" />
   <img src="https://img.shields.io/badge/STM32CubeIDE-Firmware-blue?style=for-the-badge" />
@@ -104,27 +104,34 @@ If it senses, computes, moves, or interacts — I build it.
 
 # 🏆 Projects
 
-### 🔹 Robotics & Embedded Systems  
-- Line Follower Robot (PID tuned using IR Sensor + custom motor driver board)  
-- Ultrasonic Maze Solver  
-- IR Maze Solver  
-- Res-Q Navigator (fire/smoke detection + pump + Bluetooth)  
-- Wireless EV Charging (inductive power transfer)  
+### 🔹 Line Follower Robot  
+PID tuned using IR Sensor + custom motor driver board.
 
-### 🔹 Software & AI  
-- CIFAR-10 Classifier (CNN from scratch)
+### 🔹 Ultrasonic Maze Solver  
+Distance-based navigation system.
+
+### 🔹 IR Maze Solver  
+Parallel IR wall-detection algorithm.
+
+### 🔹 Res-Q Navigator  
+Fire + smoke detection + pump + Bluetooth app.
+
+### 🔹 Wireless EV Charging  
+Inductive power transfer prototype.
+
+### 🔹 CIFAR-10 Classifier  
+CNN built from scratch.
+
+### 🔹 Solar Tracker  
+Dual-axis PCB-based tracking module.
 
 ---
 
-# 📂 Google Drive Project Showcase
-
-Here you show your full project folder publicly:
-
-### 🔗 **Project Folder:**  
-**https://drive.google.com/drive/folders/1ReHJMZ0k39349MRjhto9cTrTQ5jcgXug?usp=sharing**
-
+# 📝 Drive Project Display  
 <p align="center">
-  <img src="https://img.shields.io/badge/Drive-Project%20Showcase-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
+  <a href="https://drive.google.com/drive/folders/1e-cBBbV9rRxz6Pq-2_Q4Thl_NyA05kRN">
+    <img src="https://img.shields.io/badge/Google%20Drive-Project%20Repository-34A853?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -142,10 +149,6 @@ Here you show your full project folder publicly:
 
 ## 📆 Matrix-Style Contribution Graph
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ninadlokhande&theme=github-dark&hide_border=true&ring=00e676&fire=00e676&currStreakLabel=00e676" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=github-dark&area=true&color=00e676&point=00e676&line=00e676&hide_border=true" />
 </p>
 
@@ -153,9 +156,25 @@ Here you show your full project folder publicly:
 
 # 🌐 Connect With Me
 
-📧 **Email:** lokhandeninad1010@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/ninad-lokhande-b71ba6281  
-🐙 **GitHub:** https://github.com/Ninadlokhande  
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/ninad-lokhande-b71ba6281">
+    <img src="https://img.shields.io/badge/LinkedIn-Ninad%20Lokhande-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:lokhandeninad1010@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lokhandeninad1010%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Ninadlokhande">
+    <img src="https://img.shields.io/badge/GitHub-Ninadlokhande-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Ninad_lokhande/">
+    <img src="https://img.shields.io/badge/LeetCode-Ninad__lokhande-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+</p>
 
 ---
 
