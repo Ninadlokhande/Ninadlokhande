@@ -82,10 +82,10 @@ If it senses, computes, moves, or interacts — I build it.
 ---
 
 ## 🤖 Robotics, Dynamics & Control
-- PID tuning (LSA08)  
+- PID tuning  
 - Differential-drive modeling  
 - Maze solving (IR + ultrasonic)  
-- Kinematics (2-DOF, 4-DOF)  
+- Kinematics (2-DOF, 4-DOF, 6-DOF)  
 - Real-time control loops  
 - Sensor fusion  
 
@@ -106,7 +106,7 @@ If it senses, computes, moves, or interacts — I build it.
 # 🏆 Projects
 
 ### 🔹 Line Follower Robot  
-PID tuned using LSA08 + custom motor driver board.
+PID tuned using IR Sensor + custom motor driver board.
 
 ### 🔹 Ultrasonic Maze Solver  
 Distance-based navigation system.
