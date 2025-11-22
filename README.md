@@ -101,6 +101,28 @@ If it senses, computes, moves, or interacts — I build it.
 </p>
 
 ---
+# 🌐 Connect With Me
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/ninad-lokhande-b71ba6281">
+    <img src="https://img.shields.io/badge/LinkedIn-Ninad%20Lokhande-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:lokhandeninad1010@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lokhandeninad1010%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Ninadlokhande">
+    <img src="https://img.shields.io/badge/GitHub-Ninadlokhande-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Ninad_lokhande/">
+    <img src="https://img.shields.io/badge/LeetCode-Ninad__lokhande-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+</p>
+---
 
 # 🏆 Projects
 
@@ -129,7 +151,7 @@ Dual-axis PCB-based tracking module.
 
 # 📝 Drive Project Display  
 <p align="center">
-  <a href="https://drive.google.com/drive/folders/1e-cBBbV9rRxz6Pq-2_Q4Thl_NyA05kRN">
+  <p>"https://drive.google.com/drive/folders/1e-cBBbV9rRxz6Pq-2_Q4Thl_NyA05kRN"</p>
     <img src="https://img.shields.io/badge/Google%20Drive-Project%20Repository-34A853?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
@@ -154,27 +176,7 @@ Dual-axis PCB-based tracking module.
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/ninad-lokhande-b71ba6281">
-    <img src="https://img.shields.io/badge/LinkedIn-Ninad%20Lokhande-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:lokhandeninad1010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lokhandeninad1010%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Ninadlokhande">
-    <img src="https://img.shields.io/badge/GitHub-Ninadlokhande-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://leetcode.com/u/Ninad_lokhande/">
-    <img src="https://img.shields.io/badge/LeetCode-Ninad__lokhande-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-
-</p>
 
 ---
 
