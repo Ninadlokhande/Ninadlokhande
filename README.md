@@ -5,13 +5,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=1200&lines=Hi+👋+I'm+Ninad+Lokhande;Embedded+Systems+Engineer;Robotics+%7C+Computer+Vision+Developer;Automation+%7C+Software+Engineering;Building+Real-World+Intelligent+Systems" />
 
 </h1>
-
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Embedded%20Systems%20%7C%20Robotics%20%7C%20Computer%20Vision&fontSize=40&fontColor=00E5FF&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=320&section=header&text=Embedded%20Systems%20%7C%20Robotics%20%7C%20Computer%20Vision&fontSize=34&fontColor=00E5FF&animation=fadeIn&fontAlignY=45&desc=Automation%20%7C%20IoT%20%7C%20Software%20Engineering&descAlignY=62&descSize=18"/>
 
 </p>
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Ninadlokhande&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/><img src="https://img.shields.io/github/followers/Ninadlokhande?style=for-the-badge&color=00C2FF"/><img src="https://img.shields.io/github/stars/Ninadlokhande?style=for-the-badge&color=FFD700"/><img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/><img src="https://img.shields.io/badge/Focus-Embedded%20%26%20Robotics-blueviolet?style=for-the-badge"/><img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Systems-red?style=for-the-badge"/>
