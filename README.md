@@ -20,17 +20,9 @@
 
 ---
 
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2200&pause=600&color=00FFB3&center=true&vCenter=true&width=1200&lines=Embedded+Systems+Developer;Robotics+Engineer;Computer+Vision+Builder;ESP32+%7C+Raspberry+Pi+%7C+OpenCV;PCB+Designer+%7C+Automation+Builder;Real-Time+Hardware+Software+Integration;Software+Engineering+%7C+Java+%7C+Python+%7C+C%2B%2B" />
-
-</p>
-
----
-
 # 🧠 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 
 Engineering student focused on building real-world intelligent systems combining:
 
@@ -86,11 +78,11 @@ I build complete hardware-software systems involving:
 
 <br>
 
-<img src="https://img.shields.io/badge/IoT-WiFi%20Automation-red?style=for-the-badge"/><img src="https://img.shields.io/badge/PCB%20Design-KiCad-blueviolet?style=for-the-badge"/><img src="https://img.shields.io/badge/Software-Java%20%7C%20Python-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-WiFi%20Automation-red?style=for-the-badge"/><img src="https://img.shields.io/badge/PCB%20Design-KiCad-blueviolet?style=for-the-badge"/><img src="https://img.shields.io/badge/Software%20Development-Java%20%7C%20Python-black?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Automation-Real%20Time-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-success?style=for-the-badge"/><img src="https://img.shields.io/badge/Robotics-PID%20%7C%20Motion%20Control-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-Real%20Time-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/Control%20Systems-PID-success?style=for-the-badge"/><img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-orange?style=for-the-badge"/>
 
 </p>
 
@@ -100,9 +92,73 @@ I build complete hardware-software systems involving:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,bash"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,bash,mysql"/>
 
 </p>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="220">
+
+<img src="https://skillicons.dev/icons?i=java" width="55"/>
+
+### ☕ Java
+
+OOP  
+Collections  
+Multithreading  
+JVM  
+File Handling  
+Console Applications  
+
+</td>
+
+<td align="center" width="220">
+
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+
+### 🐍 Python
+
+OpenCV  
+Automation  
+Computer Vision  
+AI Scripts  
+Serial Communication  
+
+</td>
+
+<td align="center" width="220">
+
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/>
+
+### ⚡ C/C++
+
+Embedded Logic  
+Robotics  
+Firmware  
+Optimization  
+Microcontrollers  
+
+</td>
+
+<td align="center" width="220">
+
+<img src="https://skillicons.dev/icons?i=html,css,js" width="55"/>
+
+### 🌐 Web
+
+HTML  
+CSS  
+JavaScript  
+Frontend Basics  
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -118,7 +174,7 @@ I build complete hardware-software systems involving:
 
 <br>
 
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/Backend-Logic%20Development-orange?style=for-the-badge"/><img src="https://img.shields.io/badge/OOP%20Design-Architecture-blueviolet?style=for-the-badge"/><img src="https://img.shields.io/badge/Debugging-Optimization-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/Backend-Logic%20Development-orange?style=for-the-badge"/><img src="https://img.shields.io/badge/Debugging-System%20Optimization-red?style=for-the-badge"/>
 
 </p>
 
@@ -138,6 +194,10 @@ I build complete hardware-software systems involving:
 
 <img src="https://img.shields.io/badge/I2C-Communication-success?style=for-the-badge"/><img src="https://img.shields.io/badge/UART-Serial%20Communication-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/PWM-Motion%20Control-blueviolet?style=for-the-badge"/><img src="https://img.shields.io/badge/SPI-Embedded%20Protocol-orange?style=for-the-badge"/>
 
+<br>
+
+<img src="https://img.shields.io/badge/FreeRTOS-ESP32-black?style=for-the-badge"/><img src="https://img.shields.io/badge/ADC-Embedded%20Input-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/Interrupts-Real%20Time-green?style=for-the-badge"/><img src="https://img.shields.io/badge/Timers-Microcontroller-red?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -155,6 +215,10 @@ I build complete hardware-software systems involving:
 <br>
 
 <img src="https://img.shields.io/badge/Bluetooth-HC05-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/IR%20Arrays-Line%20Following-green?style=for-the-badge"/><img src="https://img.shields.io/badge/Obstacle%20Detection-Robotics-orange?style=for-the-badge"/><img src="https://img.shields.io/badge/Sensor%20Fusion-Embedded%20AI-red?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/ToF-Distance%20Sensors-blueviolet?style=for-the-badge"/><img src="https://img.shields.io/badge/Color%20Detection-OpenCV-success?style=for-the-badge"/><img src="https://img.shields.io/badge/Robotics-Motion%20Control-black?style=for-the-badge"/><img src="https://img.shields.io/badge/Pick%20%26%20Place-Automation-red?style=for-the-badge"/>
 
 </p>
 
@@ -177,13 +241,12 @@ I build complete hardware-software systems involving:
 - PCA9685 servo control
 - Autonomous pick-and-place workflow
 - Multi-servo robotic coordination
-- Home → Pickup → Lower → Drop → Reset states
 
 ### 🛠 Tech Stack
 
 `Python` `OpenCV` `Raspberry Pi`
 `PCA9685` `Servo Control`
-`Automation` `Computer Vision`
+`Automation`
 
 🔗 Repository  
 https://github.com/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System
@@ -206,7 +269,7 @@ https://github.com/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System
 <table>
 <tr>
 
-<td width="50%">
+<td width="100%">
 
 ### 🚀 Features
 
@@ -218,21 +281,12 @@ https://github.com/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System
 
 ### 🛠 Tech Stack
 
-`Arduino`
-`Embedded C++`
-`PCA9685`
-`Servo Motors`
-`PWM Control`
-`Robotics`
+`Arduino` `Embedded C++`
+`PCA9685` `Servo Motors`
+`PWM Control` `Robotics`
 
 🔗 Repository  
 https://github.com/Ninadlokhande/6DOF-Robotic-Arm-Control-System
-
-</td>
-
-<td width="50%">
-
-<img src="https://images.unsplash.com/photo-1561144257-e32e8efc6c4f?q=80&w=1200&auto=format&fit=crop" width="100%"/>
 
 </td>
 
@@ -246,7 +300,7 @@ https://github.com/Ninadlokhande/6DOF-Robotic-Arm-Control-System
 <table>
 <tr>
 
-<td width="50%">
+<td width="100%">
 
 ### 🚀 Features
 
@@ -258,20 +312,13 @@ https://github.com/Ninadlokhande/6DOF-Robotic-Arm-Control-System
 
 ### 🛠 Tech Stack
 
-`ESP32`
-`IoT`
+`ESP32` `IoT`
 `Blynk`
 `PCB Design`
 `Embedded Systems`
 
 🔗 Repository  
 https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System
-
-</td>
-
-<td width="50%">
-
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop" width="100%"/>
 
 </td>
 
@@ -285,7 +332,7 @@ https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System
 <table>
 <tr>
 
-<td width="50%">
+<td width="100%">
 
 ### 🚀 Features
 
@@ -304,12 +351,6 @@ https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System
 
 🔗 Repository  
 https://github.com/Ninadlokhande/Line-Follower
-
-</td>
-
-<td width="50%">
-
-<img src="https://images.unsplash.com/photo-1581092919535-7146ff1a5902?q=80&w=1200&auto=format&fit=crop" width="100%"/>
 
 </td>
 
@@ -479,6 +520,10 @@ https://github.com/Ninadlokhande/mad_lab_game
 | 🧠 imageRecognation_cifardataset | https://github.com/Ninadlokhande/imageRecognation_cifardataset |
 | 🚧 ir-maze-solver | https://github.com/Ninadlokhande/ir-maze-solver |
 | 📡 Ultrasonic-maze-solver | https://github.com/Ninadlokhande/Ultrasonic-maze-solver |
+| 📊 Sales_Prediction | https://github.com/Ninadlokhande/Sales_Prediction |
+| 📉 Unemployment_Analysis | https://github.com/Ninadlokhande/Unemployment_Analysis |
+| 🌸 Iris_Flower_Classification | https://github.com/Ninadlokhande/Iris_Flower_Classification |
+| 🚗 carPriceEstimstion | https://github.com/Ninadlokhande/carPriceEstimstion |
 
 </div>
 
