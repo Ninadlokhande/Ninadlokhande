@@ -49,12 +49,20 @@ I build complete hardware-software systems involving:
 # 📈 GitHub Analytics
 
 
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ninadlokhande&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ninadlokhande&theme=tokyonight"/>
+
+</p>
 
 <p align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ninadlokhande&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
+</p>
+
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=tokyo-night&hide_border=true&area=true&line=00E5FF&point=00FFB3&color=00E5FF"/>
 
