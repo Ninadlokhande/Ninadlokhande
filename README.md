@@ -533,16 +533,24 @@ https://github.com/Ninadlokhande/mad_lab_game
 
 <p align="center">
 
+<a href="mailto:lokhandeninad1010@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-lokhandeninad1010%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/ninad-lokhande-b71ba6281">
-
 <img src="https://img.shields.io/badge/LinkedIn-Ninad%20Lokhande-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="https://github.com/Ninadlokhande">
-
 <img src="https://img.shields.io/badge/GitHub-Ninadlokhande-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<a href="https://leetcode.com/u/Ninad_lokhande/">
+<img src="https://img.shields.io/badge/LeetCode-Ninad__lokhande-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/lokhandenhvyl">
+<img src="https://img.shields.io/badge/GeeksforGeeks-lokhandenhvyl-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
