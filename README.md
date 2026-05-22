@@ -48,19 +48,11 @@ I build complete hardware-software systems involving:
 
 # 📈 GitHub Analytics
 
-<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ninadlokhande&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninadlokhande&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</p>
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Ninadlokhande&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</p>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats
 
 <p align="center">
 
