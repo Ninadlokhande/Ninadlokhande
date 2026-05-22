@@ -50,21 +50,31 @@ I build complete hardware-software systems involving:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ninadlokhande&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninadlokhande&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ninadlokhande&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninadlokhande&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ninadlokhande&theme=tokyonight&hide_border=true" width="70%"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Ninadlokhande&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=github-dark&area=true&hide_border=true&line=00E5FF&point=00FFB3&color=00E5FF"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=tokyo-night&hide_border=true&area=true&line=00E5FF&point=00FFB3&color=00E5FF"/>
 
 </p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ninadlokhande&theme=tokyonight"/>
+
+</p>
+
+<p align="center
 
 ---
 
