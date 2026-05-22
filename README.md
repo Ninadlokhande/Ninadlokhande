@@ -1,11 +1,11 @@
 <!-- ========================= HEADER ========================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=36&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=1100&lines=Hi+👋+I'm+Ninad+Lokhande;Embedded+Systems+Engineer;Robotics+%7C+Computer+Vision+Developer;Automation+%7C+Software+Engineering;Building+Real-World+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=1200&lines=Hi+👋+I'm+Ninad+Lokhande;Embedded+Systems+Engineer;Robotics+%7C+Computer+Vision+Developer;Automation+%7C+Software+Engineering;Building+Real-World+Intelligent+Systems" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Embedded%20Systems%20%7C%20Robotics%20%7C%20Vision%20AI&fontSize=38&fontColor=00E5FF&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Embedded%20Systems%20%7C%20Robotics%20%7C%20Computer%20Vision&fontSize=40&fontColor=00E5FF&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
@@ -20,6 +20,8 @@
 
 <img src="https://img.shields.io/badge/Focus-Embedded%20%26%20Robotics-blueviolet?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Systems-red?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -27,7 +29,9 @@
 <!-- ========================= HERO ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=600&color=00FFB3&center=true&vCenter=true&width=1100&lines=Embedded+Systems+Developer;Robotics+Engineer;Computer+Vision+Builder;ESP32+%7C+Raspberry+Pi+%7C+OpenCV;PCB+Designer+%7C+Automation+Builder;Real-Time+Hardware+Software+Integration;Software+Engineering+%7C+Java+%7C+Python+%7C+C%2B%2B" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2200&pause=600&color=00FFB3&center=true&vCenter=true&width=1200&lines=Embedded+Systems+Developer;Robotics+Engineer;Computer+Vision+Builder;ESP32+%7C+Raspberry+Pi+%7C+OpenCV;PCB+Designer+%7C+Automation+Builder;Real-Time+Hardware+Software+Integration;Software+Engineering+%7C+Java+%7C+Python+%7C+C%2B%2B" />
+
 </p>
 
 ---
@@ -50,13 +54,13 @@ I develop complete hardware-software systems involving:
 
 - ESP32 & Raspberry Pi platforms
 - OpenCV-based automation
+- Autonomous robotic systems
 - Multi-servo robotic manipulation
 - PCB design & embedded firmware
-- Autonomous robotics systems
-- Vision-guided robotic workflows
 - Real-time sensor integration
 - Embedded communication protocols
 - Java & Python software systems
+- Vision-guided robotic workflows
 
 ---
 
@@ -77,6 +81,8 @@ I develop complete hardware-software systems involving:
 <img src="https://img.shields.io/badge/Software-Java%20%7C%20Python-black?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Automation-Real%20Time-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-success?style=for-the-badge"/>
 
 </p>
 
@@ -140,6 +146,12 @@ I develop complete hardware-software systems involving:
 
 <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-blue?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Backend-Logic%20Development-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/File%20Handling-Java-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Collections%20Framework-Java-red?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -162,6 +174,12 @@ I develop complete hardware-software systems involving:
 
 <img src="https://img.shields.io/badge/KiCad-PCB%20Design-orange?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/I2C-Communication-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/UART-Serial%20Communication-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PWM-Motion%20Control-blueviolet?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -183,6 +201,10 @@ I develop complete hardware-software systems involving:
 <img src="https://img.shields.io/badge/USB-Webcam-lightblue?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Servo%20Motors-Multi%20Axis-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Relay%20Control-15%20Channel-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Sensor%20Fusion-Embedded%20Systems-red?style=for-the-badge"/>
 
 </p>
 
@@ -233,7 +255,7 @@ https://github.com/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System
 
 <td width="50%">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100%"/>
 
 </td>
 </tr>
@@ -275,7 +297,7 @@ https://github.com/Ninadlokhande/6DOF-Robotic-Arm-Control-System
 
 <td width="50%">
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%"/>
 
 </td>
 </tr>
@@ -317,7 +339,7 @@ https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System
 
 <td width="50%">
 
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="100%"/>
 
 </td>
 </tr>
@@ -356,7 +378,7 @@ https://github.com/Ninadlokhande/Line-Follower
 
 <td width="50%">
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%"/>
 
 </td>
 </tr>
@@ -395,7 +417,7 @@ https://github.com/Ninadlokhande/Res-Q-Navigator-
 
 <td width="50%">
 
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%"/>
 
 </td>
 </tr>
@@ -405,26 +427,38 @@ https://github.com/Ninadlokhande/Res-Q-Navigator-
 
 # 💻 Software Engineering Projects
 
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=00FFB3&center=true&width=800&lines=Software+Engineering+Projects;Java+%7C+OOP+%7C+DSA;Backend+Logic+%7C+Application+Development" />
+
+</p>
+
+---
+
+## 📚 Student Management System
+
 <table>
 <tr>
 <td width="50%">
 
-## 📚 Student Management System
+### 🚀 Features
 
-### Features
-
+- Student record management
 - CRUD operations
 - OOP architecture
-- File handling
-- Academic management
 - Validation workflows
+- File handling system
+- Academic data organization
+- Menu-driven Java application
 
-### Tech Stack
+### 🛠 Tech Stack
 
 `Java`
 `OOP`
 `DSA`
 `File Handling`
+`Collections Framework`
+`Console Application`
 
 🔗 Repository  
 https://github.com/Ninadlokhande/Student-Management-System
@@ -433,169 +467,10 @@ https://github.com/Ninadlokhande/Student-Management-System
 
 <td width="50%">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
 
 </td>
 </tr>
 </table>
 
 ---
-
-<table>
-<tr>
-<td width="50%">
-
-## 🎮 Mad Libs Java Game
-
-### Features
-
-- Difficulty modes
-- Dynamic story generation
-- Interactive gameplay
-- Input validation
-- Java console UI
-
-### Tech Stack
-
-`Java`
-`OOP`
-`Game Logic`
-
-🔗 Repository  
-https://github.com/Ninadlokhande/mad_lab_game
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧠 AI / Vision Projects
-
-<table>
-<tr>
-<td width="50%">
-
-## 👁️ OpenCV Color Detection System
-
-### Features
-
-- Real-time color detection
-- Webcam processing
-- Serial communication
-- OpenCV contour tracking
-- Hardware-software interaction
-
-### Tech Stack
-
-`Python`
-`OpenCV`
-`NumPy`
-`Serial Communication`
-
-🔗 Repository  
-https://github.com/Ninadlokhande/camera-vision_colour-detect
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.giphy.com/media/3o7TKsQ8UQ8V5X6lGM/giphy.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 Data Science & Machine Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-Data%20Science-blue?style=for-the-badge&logo=python"/>
-
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge&logo=opencv"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pandas-Analytics-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-blueviolet?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ninadlokhande&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninadlokhande&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ninadlokhande&theme=tokyonight&hide_border=true" width="70%" />
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=github-dark&area=true&hide_border=true&line=00E5FF&point=00FFB3&color=00E5FF"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ninad-lokhande-b71ba6281">
-<img src="https://img.shields.io/badge/LinkedIn-Ninad%20Lokhande-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:lokhandeninad1010@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Ninadlokhande">
-<img src="https://img.shields.io/badge/GitHub-Ninadlokhande-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Ninad_lokhande/">
-<img src="https://img.shields.io/badge/LeetCode-Ninad__lokhande-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Engineering Philosophy
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2200&pause=1000&color=00E5FF&center=true&width=950&lines=Robots+are+my+playground.;Software+is+my+toolbox.;Engineering+is+how+I+shape+reality.;Embedded+Systems+Drive+My+Curiosity.;Hardware+%2B+Software+%3D+Innovation." />
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-</p>
