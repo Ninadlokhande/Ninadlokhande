@@ -14,27 +14,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ninadlokhande&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/github/followers/Ninadlokhande?style=for-the-badge&color=00C2FF"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/github/stars/Ninadlokhande?style=for-the-badge&color=FFD700"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Focus-Embedded%20%26%20Robotics-blueviolet?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Systems-red?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Ninadlokhande&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/><img src="https://img.shields.io/github/followers/Ninadlokhande?style=for-the-badge&color=00C2FF"/><img src="https://img.shields.io/github/stars/Ninadlokhande?style=for-the-badge&color=FFD700"/><img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/><img src="https://img.shields.io/badge/Focus-Embedded%20%26%20Robotics-blueviolet?style=for-the-badge"/><img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Systems-red?style=for-the-badge"/>
 
 </p>
 
@@ -58,7 +38,7 @@ Engineering student focused on building real-world intelligent systems combining
 - 🔌 Embedded Systems
 - 👁️ Computer Vision
 - 🌐 IoT Automation
-- 🛠️ PCB Design
+- 🛠 PCB Design
 - 💻 Software Engineering
 - ⚡ Real-Time Embedded Control
 
@@ -80,17 +60,13 @@ I build complete hardware-software systems involving:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ninadlokhande&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-&nbsp;&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninadlokhande&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ninadlokhande&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninadlokhande&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ninadlokhande&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Ninadlokhande&theme=tokyonight&hide_border=true" width="70%"/>
 
 </p>
 
@@ -106,49 +82,15 @@ I build complete hardware-software systems involving:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Embedded%20Systems-ESP32%20%7C%20STM32-blue?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Robotics-Autonomous%20Systems-orange?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-ESP32%20%7C%20STM32-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/Robotics-Autonomous%20Systems-orange?style=for-the-badge"/><img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/IoT-WiFi%20Automation-red?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/PCB%20Design-KiCad-blueviolet?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Software-Java%20%7C%20Python-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-WiFi%20Automation-red?style=for-the-badge"/><img src="https://img.shields.io/badge/PCB%20Design-KiCad-blueviolet?style=for-the-badge"/><img src="https://img.shields.io/badge/Software-Java%20%7C%20Python-black?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Automation-Real%20Time-blue?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-success?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Robotics-PID%20%7C%20Motion%20Control-orange?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🚀 Current Focus
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2100&pause=700&color=00E5FF&center=true&width=1000&lines=Robotics+%26+Motion+Control;Computer+Vision+Automation;Embedded+Systems+Architecture;Raspberry+Pi+Automation;Real-Time+Embedded+Programming;Hardware+Software+Integration" />
+<img src="https://img.shields.io/badge/Automation-Real%20Time-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-success?style=for-the-badge"/><img src="https://img.shields.io/badge/Robotics-PID%20%7C%20Motion%20Control-orange?style=for-the-badge"/>
 
 </p>
 
@@ -168,39 +110,15 @@ I build complete hardware-software systems involving:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/OOP-Object%20Oriented-blue?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/DSA-Problem%20Solving-green?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/JVM-Java%20Internals-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-Object%20Oriented-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/DSA-Problem%20Solving-green?style=for-the-badge"/><img src="https://img.shields.io/badge/JVM-Java%20Internals-red?style=for-the-badge"/><img src="https://img.shields.io/badge/Multithreading-Java-blueviolet?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Multithreading-Java-blueviolet?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/File%20Handling-Java-success?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/File%20Handling-Java-success?style=for-the-badge"/><img src="https://img.shields.io/badge/Collections%20Framework-Java-orange?style=for-the-badge"/><img src="https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge"/><img src="https://img.shields.io/badge/Linux-Scripting-success?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Linux-Scripting-success?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-blue?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Backend-Logic%20Development-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/Backend-Logic%20Development-orange?style=for-the-badge"/><img src="https://img.shields.io/badge/OOP%20Design-Architecture-blueviolet?style=for-the-badge"/><img src="https://img.shields.io/badge/Debugging-Optimization-red?style=for-the-badge"/>
 
 </p>
 
@@ -210,39 +128,15 @@ I build complete hardware-software systems involving:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/ESP32-WiFi%20%7C%20BLE-green?style=for-the-badge&logo=espressif"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Raspberry%20Pi-4B-red?style=for-the-badge&logo=raspberrypi"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Arduino-Uno%20%7C%20Mega-blue?style=for-the-badge&logo=arduino"/>
+<img src="https://img.shields.io/badge/ESP32-WiFi%20%7C%20BLE-green?style=for-the-badge&logo=espressif"/><img src="https://img.shields.io/badge/Raspberry%20Pi-4B-red?style=for-the-badge&logo=raspberrypi"/><img src="https://img.shields.io/badge/Arduino-Uno%20%7C%20Mega-blue?style=for-the-badge&logo=arduino"/><img src="https://img.shields.io/badge/STM32-CubeIDE-lightgrey?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STM32-CubeIDE-lightgrey?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/PCA9685-Servo%20Controller-blueviolet?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Blynk-IoT%20Cloud-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PCA9685-Servo%20Controller-blueviolet?style=for-the-badge"/><img src="https://img.shields.io/badge/Blynk-IoT%20Cloud-red?style=for-the-badge"/><img src="https://img.shields.io/badge/KiCad-PCB%20Design-orange?style=for-the-badge"/><img src="https://img.shields.io/badge/MicroPython-Embedded-success?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/KiCad-PCB%20Design-orange?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/I2C-Communication-success?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/UART-Serial%20Communication-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/I2C-Communication-success?style=for-the-badge"/><img src="https://img.shields.io/badge/UART-Serial%20Communication-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/PWM-Motion%20Control-blueviolet?style=for-the-badge"/><img src="https://img.shields.io/badge/SPI-Embedded%20Protocol-orange?style=for-the-badge"/>
 
 </p>
 
@@ -252,41 +146,21 @@ I build complete hardware-software systems involving:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/HC--SR04-Ultrasonic-blue?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/LSA08-IR%20Sensor-green?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/DHT11-Temperature-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HC--SR04-Ultrasonic-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/LSA08-IR%20Sensor-green?style=for-the-badge"/><img src="https://img.shields.io/badge/DHT11-Temperature-yellow?style=for-the-badge"/><img src="https://img.shields.io/badge/MQ2-Smoke-red?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/MQ2-Smoke-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/L298N-Motor%20Driver-orange?style=for-the-badge"/><img src="https://img.shields.io/badge/USB-Webcam-lightblue?style=for-the-badge"/><img src="https://img.shields.io/badge/Servo%20Motors-Multi%20Axis-blueviolet?style=for-the-badge"/><img src="https://img.shields.io/badge/Relay%20Modules-Automation-success?style=for-the-badge"/>
 
-&nbsp;
+<br>
 
-<img src="https://img.shields.io/badge/L298N-Motor%20Driver-orange?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/USB-Webcam-lightblue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bluetooth-HC05-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/IR%20Arrays-Line%20Following-green?style=for-the-badge"/><img src="https://img.shields.io/badge/Obstacle%20Detection-Robotics-orange?style=for-the-badge"/><img src="https://img.shields.io/badge/Sensor%20Fusion-Embedded%20AI-red?style=for-the-badge"/>
 
 </p>
 
 ---
 
 # 🏆 Flagship Engineering Projects
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2200&pause=700&color=00E5FF&center=true&width=1000&lines=Flagship+Engineering+Projects;Embedded+Systems+%7C+Robotics+%7C+Computer+Vision;Hardware+%2B+Software+Integrated+Systems" />
-
-</p>
-
----
 
 # 🤖 Raspberry Pi Vision Pick-and-Place System
 
@@ -398,6 +272,82 @@ https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System
 <td width="50%">
 
 <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛣 PID Line Follower Robot
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚀 Features
+
+- PID tuning
+- IR sensor arrays
+- High-speed navigation
+- Autonomous correction system
+
+### 🛠 Tech Stack
+
+`Embedded C++`
+`PID Control`
+`IR Sensors`
+`Motor Drivers`
+`Robotics`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/Line-Follower
+
+</td>
+
+<td width="50%">
+
+<img src="https://images.unsplash.com/photo-1581092919535-7146ff1a5902?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚒 Res-Q Navigator
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚀 Features
+
+- Fire detection
+- Smoke detection
+- Bluetooth communication
+- Automated water deployment
+
+### 🛠 Tech Stack
+
+`Arduino`
+`MQ2`
+`DHT11`
+`Bluetooth HC05`
+`Embedded Systems`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/Res-Q-Navigator-
+
+</td>
+
+<td width="50%">
+
+<img src="https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?q=80&w=1200&auto=format&fit=crop" width="100%"/>
 
 </td>
 
@@ -543,8 +493,6 @@ https://github.com/Ninadlokhande/mad_lab_game
 <img src="https://img.shields.io/badge/LinkedIn-Ninad%20Lokhande-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
-
-&nbsp;
 
 <a href="https://github.com/Ninadlokhande">
 
