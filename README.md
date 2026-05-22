@@ -32,6 +32,18 @@
 
 <img src="https://img.shields.io/badge/Focus-Embedded%20%26%20Robotics-blueviolet?style=for-the-badge"/>
 
+&nbsp;
+
+<img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Systems-red?style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2200&pause=600&color=00FFB3&center=true&vCenter=true&width=1200&lines=Embedded+Systems+Developer;Robotics+Engineer;Computer+Vision+Builder;ESP32+%7C+Raspberry+Pi+%7C+OpenCV;PCB+Designer+%7C+Automation+Builder;Real-Time+Hardware+Software+Integration;Software+Engineering+%7C+Java+%7C+Python+%7C+C%2B%2B" />
+
 </p>
 
 ---
@@ -40,15 +52,15 @@
 
 <img align="right" width="360" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 
-Engineering student focused on building **real-world intelligent systems** combining:
+Engineering student focused on building real-world intelligent systems combining:
 
-- 🤖 Robotics  
-- 🔌 Embedded Systems  
-- 👁️ Computer Vision  
-- 🌐 IoT Automation  
-- 🛠️ PCB Design  
-- 💻 Software Engineering  
-- ⚡ Real-Time Embedded Control  
+- 🤖 Robotics
+- 🔌 Embedded Systems
+- 👁️ Computer Vision
+- 🌐 IoT Automation
+- 🛠️ PCB Design
+- 💻 Software Engineering
+- ⚡ Real-Time Embedded Control
 
 I build complete hardware-software systems involving:
 
@@ -57,6 +69,7 @@ I build complete hardware-software systems involving:
 - Autonomous robotic systems
 - Multi-servo robotic manipulation
 - PCB design & embedded firmware
+- Real-time sensor integration
 - Embedded communication protocols
 - Java & Python software systems
 - Vision-guided robotic workflows
@@ -115,55 +128,19 @@ I build complete hardware-software systems involving:
 
 <img src="https://img.shields.io/badge/Software-Java%20%7C%20Python-black?style=for-the-badge"/>
 
+<br>
+
+<img src="https://img.shields.io/badge/Automation-Real%20Time-blue?style=for-the-badge"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-success?style=for-the-badge"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Robotics-PID%20%7C%20Motion%20Control-orange?style=for-the-badge"/>
+
 </p>
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="240">
-
-<img src="https://cdn-icons-png.flaticon.com/512/3659/3659898.png" width="60"/>
-
-### 🔌 Embedded Systems
-
-ESP32  
-STM32  
-Arduino  
-Firmware Design  
-PWM / I2C / UART  
-
-</td>
-
-<td align="center" width="240">
-
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="60"/>
-
-### 👁️ Computer Vision
-
-OpenCV  
-Object Detection  
-Image Processing  
-Vision Automation  
-
-</td>
-
-<td align="center" width="240">
-
-<img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="60"/>
-
-### 🤖 Robotics
-
-Motion Control  
-Maze Solvers  
-Pick & Place  
-PID Robots  
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
@@ -174,53 +151,6 @@ PID Robots
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2100&pause=700&color=00E5FF&center=true&width=1000&lines=Robotics+%26+Motion+Control;Computer+Vision+Automation;Embedded+Systems+Architecture;Raspberry+Pi+Automation;Real-Time+Embedded+Programming;Hardware+Software+Integration" />
 
 </p>
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="240">
-
-<img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="60"/>
-
-### 🤖 Robotics
-
-Motion control  
-Pick & place  
-PID robots  
-Maze solving  
-
-</td>
-
-<td align="center" width="240">
-
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="60"/>
-
-### 👁️ OpenCV
-
-Vision automation  
-Object tracking  
-Webcam systems  
-Real-time detection  
-
-</td>
-
-<td align="center" width="240">
-
-<img src="https://cdn-icons-png.flaticon.com/512/3659/3659898.png" width="60"/>
-
-### 🔌 Embedded Systems
-
-ESP32  
-Raspberry Pi  
-STM32  
-Arduino systems  
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
@@ -260,56 +190,19 @@ Arduino systems
 
 <img src="https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge"/>
 
+<br>
+
+<img src="https://img.shields.io/badge/Linux-Scripting-success?style=for-the-badge"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-blue?style=for-the-badge"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Backend-Logic%20Development-orange?style=for-the-badge"/>
+
 </p>
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="240">
-
-<img src="https://skillicons.dev/icons?i=java" width="60"/>
-
-### ☕ Java Development
-
-OOP  
-Collections Framework  
-File Handling  
-Multithreading  
-JVM Internals  
-
-</td>
-
-<td align="center" width="240">
-
-<img src="https://skillicons.dev/icons?i=cpp" width="60"/>
-
-### ⚡ Problem Solving
-
-DSA  
-Algorithms  
-Optimization  
-Debugging  
-Logic Building  
-
-</td>
-
-<td align="center" width="240">
-
-<img src="https://skillicons.dev/icons?i=git" width="60"/>
-
-### 🛠 Software Tools
-
-Git & GitHub  
-VS Code  
-Linux  
-Shell Scripting  
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
@@ -339,54 +232,19 @@ Shell Scripting
 
 <img src="https://img.shields.io/badge/Blynk-IoT%20Cloud-red?style=for-the-badge"/>
 
+<br>
+
+<img src="https://img.shields.io/badge/KiCad-PCB%20Design-orange?style=for-the-badge"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/I2C-Communication-success?style=for-the-badge"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/UART-Serial%20Communication-blue?style=for-the-badge"/>
+
 </p>
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="240">
-
-<img src="https://skillicons.dev/icons?i=arduino" width="60"/>
-
-### 🔧 ESP32 & Arduino
-
-WiFi & BLE  
-GPIO interfacing  
-Sensor systems  
-Relay automation  
-
-</td>
-
-<td align="center" width="240">
-
-<img src="https://skillicons.dev/icons?i=raspberrypi" width="60"/>
-
-### 🍓 Raspberry Pi
-
-OpenCV systems  
-Linux automation  
-Python robotics  
-Webcam processing  
-
-</td>
-
-<td align="center" width="240">
-
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="60"/>
-
-### ⚙️ Embedded Control
-
-PWM control  
-Servo interfacing  
-I2C / UART  
-Robotics firmware  
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
@@ -406,7 +264,7 @@ Robotics firmware
 
 <br>
 
-<img src="https://img.shields.io/badge/MQ2-Smoke/red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MQ2-Smoke-red?style=for-the-badge"/>
 
 &nbsp;
 
@@ -418,51 +276,280 @@ Robotics firmware
 
 </p>
 
-<table align="center">
+---
 
+# 🏆 Flagship Engineering Projects
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2200&pause=700&color=00E5FF&center=true&width=1000&lines=Flagship+Engineering+Projects;Embedded+Systems+%7C+Robotics+%7C+Computer+Vision;Hardware+%2B+Software+Integrated+Systems" />
+
+</p>
+
+---
+
+# 🤖 Raspberry Pi Vision Pick-and-Place System
+
+<table>
 <tr>
 
-<td align="center" width="240">
+<td width="50%">
 
-<img src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png" width="60"/>
+### 🚀 Features
 
-### 📡 Sensor Systems
+- Raspberry Pi 4B automation
+- OpenCV object detection
+- USB webcam tracking
+- PCA9685 servo control
+- Autonomous pick-and-place workflow
+- Multi-servo robotic coordination
+- Home → Pickup → Lower → Drop → Reset states
 
-Ultrasonic sensors  
-IR arrays  
-Smoke sensors  
-Temperature sensors  
+### 🛠 Tech Stack
 
-</td>
+`Python` `OpenCV` `Raspberry Pi`
+`PCA9685` `Servo Control`
+`Automation` `Computer Vision`
 
-<td align="center" width="240">
-
-<img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="60"/>
-
-### ⚙️ Motion Systems
-
-Servo motors  
-PWM drivers  
-Motor drivers  
-Differential drive  
+🔗 Repository  
+https://github.com/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System
 
 </td>
 
-<td align="center" width="240">
+<td width="50%">
 
-<img src="https://cdn-icons-png.flaticon.com/512/1998/1998610.png" width="60"/>
-
-### 🤖 Robotics Hardware
-
-Line followers  
-Maze solvers  
-Pick & place systems  
-Autonomous robots  
+<img src="https://images.unsplash.com/photo-1535378917042-10a22c95931a?q=80&w=1200&auto=format&fit=crop" width="100%"/>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
+
+# 🦾 6DOF Robotic Arm Control System
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚀 Features
+
+- 6-axis robotic manipulation
+- PCA9685 PWM control
+- Bluetooth communication
+- Embedded motion control
+- Real-time robotic positioning
+
+### 🛠 Tech Stack
+
+`Arduino`
+`Embedded C++`
+`PCA9685`
+`Servo Motors`
+`PWM Control`
+`Robotics`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/6DOF-Robotic-Arm-Control-System
+
+</td>
+
+<td width="50%">
+
+<img src="https://images.unsplash.com/photo-1561144257-e32e8efc6c4f?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌱 AgriSentinel IoT Automation System
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚀 Features
+
+- ESP32 IoT automation
+- Custom PCB design
+- Relay architecture
+- Blynk integration
+- Sensor telemetry
+
+### 🛠 Tech Stack
+
+`ESP32`
+`IoT`
+`Blynk`
+`PCB Design`
+`Embedded Systems`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System
+
+</td>
+
+<td width="50%">
+
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💻 Software Engineering Projects
+
+# 📚 Student Management System
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚀 Features
+
+- CRUD operations
+- OOP architecture
+- File handling
+- Validation workflows
+
+### 🛠 Tech Stack
+
+`Java`
+`OOP`
+`DSA`
+`Collections Framework`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/Student-Management-System
+
+</td>
+
+<td width="50%">
+
+<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧮 Area Calculator Java
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚀 Features
+
+- Geometry calculations
+- Shape-based computation
+- Java OOP concepts
+
+### 🛠 Tech Stack
+
+`Java`
+`OOP`
+`Mathematics`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/AreaCalculatorJava
+
+</td>
+
+<td width="50%">
+
+<img src="https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎮 Mad Libs Java Game
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚀 Features
+
+- Interactive gameplay
+- Dynamic stories
+- Difficulty modes
+- Console UI
+
+### 🛠 Tech Stack
+
+`Java`
+`Game Logic`
+`OOP`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/mad_lab_game
+
+</td>
+
+<td width="50%">
+
+<img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📦 Other / Experimental Projects
+
+<div align="center">
+
+| 🚀 Project | 🔗 Repository |
+|---|---|
+| 🧩 Kinematics_of-2DOF | https://github.com/Ninadlokhande/Kinematics_of-2DOF |
+| 🤖 OCoN-the-Robot-Assistant | https://github.com/Ninadlokhande/OCoN-the-Robot-Assistant |
+| 🌐 IOT-Kit-Internship | https://github.com/Ninadlokhande/IOT-Kit-Internship |
+| ⚙️ Stm-ALL | https://github.com/Ninadlokhande/Stm-ALL |
+| 🧠 imageRecognation_cifardataset | https://github.com/Ninadlokhande/imageRecognation_cifardataset |
+| 🚧 ir-maze-solver | https://github.com/Ninadlokhande/ir-maze-solver |
+| 📡 Ultrasonic-maze-solver | https://github.com/Ninadlokhande/Ultrasonic-maze-solver |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ninad-lokhande-b71ba6281">
+
+<img src="https://img.shields.io/badge/LinkedIn-Ninad%20Lokhande-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Ninadlokhande">
+
+<img src="https://img.shields.io/badge/GitHub-Ninadlokhande-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
