@@ -63,7 +63,7 @@ Engineering student specializing in Electronics and Telecommunication with an Ho
 
 <p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=tokyo-night&hide_border=true&area=true&line=00E5FF&point=00FFB3&color=00E5FF" alt="Activity Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph"/>
 
 </p>
 
@@ -207,9 +207,7 @@ PlatformIO & Thonny
 
 </td>
 <td width="50%">
-<a href="https://github.com/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System">
-  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System" width="100%" alt="Raspberry Pi Repo"/>
-</a>
+<img src="https://images.unsplash.com/photo-1535378917042-10a22c95931a?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Raspberry Pi Pick and Place"/>
 </td>
 </tr>
 </table>
@@ -371,9 +369,7 @@ PlatformIO & Thonny
 
 </td>
 <td width="50%">
-<a href="https://github.com/Ninadlokhande/Res-Q-Navigator-">
-  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/Res-Q-Navigator-" width="100%" alt="Res-Q Navigator Repo"/>
-</a>
+<img src="https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Rescue Robot"/>
 </td>
 </tr>
 </table>
@@ -524,9 +520,7 @@ PlatformIO & Thonny
 
 </td>
 <td width="50%">
-<a href="https://github.com/Ninadlokhande/Student-Management-System">
-  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/Student-Management-System" width="100%" alt="Student Management Repo"/>
-</a>
+<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Student Management UI"/>
 </td>
 </tr>
 </table>
@@ -556,9 +550,7 @@ PlatformIO & Thonny
 
 </td>
 <td width="50%">
-<a href="https://github.com/Ninadlokhande/AreaCalculatorJava">
-  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/AreaCalculatorJava" width="100%" alt="Area Calculator Repo"/>
-</a>
+<img src="https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Area Calculator Concept"/>
 </td>
 </tr>
 </table>
@@ -588,9 +580,7 @@ PlatformIO & Thonny
 
 </td>
 <td width="50%">
-<a href="https://github.com/Ninadlokhande/mad_lab_game">
-  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/mad_lab_game" width="100%" alt="Mad Libs Repo"/>
-</a>
+<img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Mad Libs Game"/>
 </td>
 </tr>
 </table>
