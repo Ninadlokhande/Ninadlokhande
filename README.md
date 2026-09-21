@@ -468,7 +468,7 @@ PlatformIO & Thonny
 
 </td>
 <td width="50%">
-<img src="ChatGPT Image Aug 10, 2026, 12_21_13 PM.png" width="100%" alt="MAACare AI Logo"/>
+<img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=1200&auto=format&fit=crop" width="100%" alt="MAACare AI Logo"/>
 <!-- ALTERNATIVE GITHUB CARD: If the image above fails, replace it with this:
 <a href="https://github.com/Ninadlokhande/MAACare-Ai"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/MAACare-Ai" width="100%"/></a> 
 -->
