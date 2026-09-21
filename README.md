@@ -1,18 +1,16 @@
-<h1 align="center">
+<!-- ========================= HEADER ========================= -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&amp;weight=700&amp;size=38&amp;duration=2400&amp;pause=700&amp;color=00F5FF&amp;center=true&amp;vCenter=true&amp;width=1200&amp;lines=Hi+👋+I'm+Ninad+Lokhande;Software+%26+Backend+Developer;Embedded+Systems+%26+Robotics+Engineer;AI,+ML,+%26+Data+Science;Building+Real-World+Intelligent+Systems" alt="Typing Header"/>
+<div align="center">
 
-</h1>
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=1200&lines=Hi+👋+I'm+Ninad+Lokhande;Software+%26+Backend+Developer;Embedded+Systems+%26+Robotics+Engineer;AI,+ML,+%26+Data+Science;Building+Real-World+Intelligent+Systems)](https://github.com/Ninadlokhande)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=320&amp;section=header&amp;text=Software%20Engineering%20%7C%20AI%20%26%20ML%20%7C%20Robotics&amp;fontSize=34&amp;fontColor=00E5FF&amp;animation=fadeIn&amp;fontAlignY=45&amp;desc=Java%20Backend%20%7C%20Embedded%20Systems%20%7C%20Computer%20Vision&amp;descAlignY=62&amp;descSize=18" alt="Waving Banner"/>
+[![Waving Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=320&section=header&text=Software%20Engineering%20%7C%20AI%20%26%20ML%20%7C%20Robotics&fontSize=34&fontColor=00E5FF&animation=fadeIn&fontAlignY=45&desc=Java%20Backend%20%7C%20Embedded%20Systems%20%7C%20Computer%20Vision&descAlignY=62&descSize=18)](https://github.com/Ninadlokhande)
 
-</p>
-<p align="center">
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Ninadlokhande&amp;label=PROFILE+VIEWS&amp;color=00E5FF&amp;style=for-the-badge" alt="Profile Views"/><img src="https://img.shields.io/github/followers/Ninadlokhande?style=for-the-badge&amp;color=00C2FF" alt="Followers"/><img src="https://img.shields.io/github/stars/Ninadlokhande?style=for-the-badge&amp;color=FFD700" alt="Stars"/><img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" alt="Open Source"/><img src="https://img.shields.io/badge/Focus-Software,%20AI%20%26%20Robotics-blueviolet?style=for-the-badge" alt="Focus"/><img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Systems-red?style=for-the-badge" alt="Status"/>
+<img src="https://komarev.com/ghpvc/?username=Ninadlokhande&amp;label=PROFILE+VIEWS&amp;color=00E5FF&amp;style=for-the-badge" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/Ninadlokhande?style=for-the-badge&amp;color=00C2FF" alt="Followers"/> <img src="https://img.shields.io/github/stars/Ninadlokhande?style=for-the-badge&amp;color=FFD700" alt="Stars"/> <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" alt="Open Source"/> <img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Systems-red?style=for-the-badge" alt="Status"/>
 
-</p>
+</div>
 
 ---
 
@@ -26,27 +24,6 @@ I am an Electronics and Telecommunication Engineering student pursuing an Honour
 - ☁️ **Backend & Cloud:** Proficient in MySQL, Firebase Authentication, Cloud Firestore for structured data management, and Cloudinary for media handling.
 - 🧠 **AI & Machine Learning:** Experienced with TensorFlow, Keras, CNNs, OpenCV vision pipelines, and multi-provider AI API integrations (OpenAI, Gemini, Groq, OpenRouter).
 - 🤖 **Embedded & Robotics:** Hands-on expertise in kinematics, PID control, and firmware development across Raspberry Pi 4B, ESP32, STM32, and Arduino. Custom PCB design (KiCad/Eagle) and IoT telemetry.
-
----
-
-# 💼 Professional Experience
-
-### 👨‍💻 Java Development Intern | *Incubators Systems Pvt. Ltd.*
-*Jul 2026 – Sep 2026*
-* Developed desktop interfaces using **JavaFX**, HTML, CSS, and JavaScript.
-* Implemented **Firebase Authentication** and **Cloud Firestore** for secure sessions and real-time database queries.
-* Configured **Cloudinary** for media storage pipelines and connected asynchronous frontend modules to backend logic.
-
-### 🦾 Robotics Engineer Intern | *Automax Robotics Pvt. Ltd.*
-*Sep 2025 – Feb 2026*
-* Engineered Python and **OpenCV** computer-vision pipelines for 6-DOF robotic-arm kinematics.
-* Implemented inverse kinematics, joint limits, and position synchronization on **Raspberry Pi 4B**.
-* Designed and tuned autonomous navigation routines including PID-based line tracking and maze solving.
-
-### 📊 Data Analysis Intern | *VOIS*
-*Jun 2024 – Jul 2024*
-* Processed and sanitized structured datasets using **Python, Pandas, and Jupyter Notebook**.
-* Constructed interactive **Power BI** dashboards and Matplotlib figures to present key performance metrics.
 
 ---
 
@@ -64,18 +41,20 @@ I am an Electronics and Telecommunication Engineering student pursuing an Honour
 
 # 📈 GitHub Analytics
 
-<p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ninadlokhande&amp;theme=tokyonight" alt="Languages Card"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ninadlokhande&amp;theme=tokyonight" alt="Commits Card"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ninadlokhande&amp;theme=tokyonight&amp;hide_border=true" alt="Streak Stats"/>
-</p>
+[![Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ninadlokhande&theme=tokyonight)](https://github.com/Ninadlokhande)
+[![Commits Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ninadlokhande&theme=tokyonight)](https://github.com/Ninadlokhande)
 
-<p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&amp;bg_color=0f0c29&amp;color=00E5FF&amp;line=00E5FF&amp;point=00FFB3&amp;area=true&amp;hide_border=true" alt="Activity Graph"/>
-</p>
+<br>
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ninadlokhande&theme=tokyonight&hide_border=true)](https://github.com/Ninadlokhande)
+
+<br>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&bg_color=0f0c29&color=00E5FF&line=00E5FF&point=00FFB3&area=true&hide_border=true)](https://github.com/Ninadlokhande)
+
+</div>
 
 ---
 
@@ -132,7 +111,14 @@ Cloud Connectivity
 
 ---
 
-# 💻 1. Software Engineering, AI & Full-Stack Projects
+# 🏆 Project Rankings by Technical Complexity
+
+Below, my projects are categorized and ranked from **Level 1 (Advanced Systems)** down to **Level 3 (Core Foundations)** to demonstrate my progression and engineering capabilities across software, AI, and hardware.
+
+---
+
+# 🚀 Level 1: Advanced Flagship Systems
+*Complex, multi-disciplinary projects involving Full-Stack Development, Computer Vision, AI APIs, and Custom Hardware.*
 
 <br>
 
@@ -160,6 +146,9 @@ Cloud Connectivity
 </td>
 <td width="50%">
 <img src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?q=80&amp;w=1200&amp;auto=format&amp;fit=crop" width="100%" alt="PlaySphere AI Sports Platform"/>
+<!-- ALTERNATIVE GITHUB CARD:
+<a href="https://github.com/Ninadlokhande/Play-Sphere"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/Play-Sphere" width="100%"/></a> 
+-->
 </td>
 </tr>
 </table>
@@ -187,87 +176,9 @@ Cloud Connectivity
 </td>
 <td width="50%">
 <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&amp;w=1200&amp;auto=format&amp;fit=crop" width="100%" alt="MAACare AI Logo"/>
-</td>
-</tr>
-</table>
-
----
-
-# 📚 Student Management System
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Features
-- Built a native full-stack portal using Core Java and built-in Java HTTP Server without heavy external application frameworks.
-- Created a relational schema across 7+ modules (students, courses, enrollments, library catalog) using JDBC PreparedStatements.
-- Developed an asynchronous web front-end leveraging Fetch API endpoints for low-latency CRUD data interchange.
-
-### 🛠 Tech Stack
-`Core Java` `Java HTTP Server`  
-`JDBC` `MySQL` `JavaScript (Fetch API)`
-
-🔗 [View Full Source Code](https://github.com/Ninadlokhande/Student-Management-System)
-
-</td>
-<td width="50%">
-<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&amp;w=1200&amp;auto=format&amp;fit=crop" width="100%" alt="Student Management UI"/>
-</td>
-</tr>
-</table>
-
----
-
-# 🧠 CIFAR-10 Image Classification
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Features
-- Trained a deep Convolutional Neural Network (CNN) with dropout and pooling layers to classify the CIFAR-10 dataset.
-- Implemented image normalization, multi-layer architecture, model training pipelines, and single-image prediction algorithms.
-
-### 🛠 Tech Stack
-`Python` `TensorFlow` `Keras`  
-`Deep Learning` `CNN`
-
-🔗 [View Full Source Code](https://github.com/Ninadlokhande/imageRecognation_cifardataset)
-
-</td>
-<td width="50%">
-<img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&amp;w=1200&amp;auto=format&amp;fit=crop" width="100%" alt="CNN AI Image"/>
-</td>
-</tr>
-</table>
-
----
-
-# 🤖 2. Electronics & Robotics Flagship Projects
-
-<br>
-
-# 🌱 AgriSentinel IoT Automation System
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Features
-- IoT-based crop-monitoring and automation system using ESP32, sensor arrays, and relay-based control.
-- Designed and routed a custom 2-layer PCB for the central monitoring node.
-- Integrated TensorFlow Lite for offline plant-disease detection alongside Blynk cloud telemetry.
-
-### 🛠 Tech Stack
-`ESP32` `Custom PCB (KiCad)` `IoT`  
-`Blynk` `TensorFlow Lite` `C++`
-
-🔗 [View Full Source Code](https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System)
-
-</td>
-<td width="50%">
-<img src="https://images.unsplash.com/photo-1586771107445-d3ca888129ff?q=80&amp;w=1200&amp;auto=format&amp;fit=crop" width="100%" alt="AgriSentinel System"/>
+<!-- ALTERNATIVE GITHUB CARD: 
+<a href="https://github.com/Ninadlokhande/MAACare-Ai"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/MAACare-Ai" width="100%"/></a> 
+-->
 </td>
 </tr>
 </table>
@@ -294,32 +205,164 @@ Cloud Connectivity
 </td>
 <td width="50%">
 <img src="https://images.unsplash.com/photo-1535378917042-10a22c95931a?q=80&amp;w=1200&amp;auto=format&amp;fit=crop" width="100%" alt="Raspberry Pi Pick and Place"/>
+<!-- ALTERNATIVE GITHUB CARD:
+<a href="https://github.com/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System" width="100%"/></a> 
+-->
 </td>
 </tr>
 </table>
 
 ---
 
-# 🚒 Res-Q Navigator
+# 🌱 AgriSentinel IoT Automation System
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🚀 Features
-- Autonomous rescue robot integrating Arduino Uno, L298N driver, and N20 motors with environmental sensing.
-- Fire and smoke detection using flame and MQ2 sensors, plus DHT11 telemetry.
-- Configured UART serial communication via HC-05 Bluetooth for wireless control.
+- IoT-based crop-monitoring and automation system using ESP32, sensor arrays, and relay-based control.
+- Designed and routed a custom 2-layer PCB for the central monitoring node.
+- Integrated TensorFlow Lite for offline plant-disease detection alongside Blynk cloud telemetry.
 
 ### 🛠 Tech Stack
-`Arduino Uno` `UART` `L298N` `N20 Motors`  
-`HC-05` `MQ2` `DHT11` `Embedded Systems`
+`ESP32` `Custom PCB (KiCad)` `IoT`  
+`Blynk` `TensorFlow Lite` `C++`
 
-🔗 [View Full Source Code](https://github.com/Ninadlokhande/Res-Q-Navigator-)
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System)
 
 </td>
 <td width="50%">
-<img src="https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?q=80&amp;w=1200&amp;auto=format&amp;fit=crop" width="100%" alt="Rescue Robot"/>
+<img src="https://images.unsplash.com/photo-1586771107445-d3ca888129ff?q=80&amp;w=1200&amp;auto=format&amp;fit=crop" width="100%" alt="AgriSentinel System"/>
+<!-- ALTERNATIVE GITHUB CARD: 
+<a href="https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/AgriSentinel-IoT-Automation-System" width="100%"/></a> 
+-->
+</td>
+</tr>
+</table>
+
+<br><br>
+
+---
+
+# 📈 Level 2: Intermediate Engineering
+*Solid, highly functional projects focusing on Machine Learning, Database Architecture, and Embedded Control Systems.*
+
+<br>
+
+# 🦾 6DOF Robotic Arm Control System
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+- 6-axis robotic manipulation and mechanical design logic.
+- PCA9685 PWM control for multi-servo coordination.
+- Bluetooth communication telemetry for remote operation.
+- Embedded motion control and real-time positioning.
+
+### 🛠 Tech Stack
+`Arduino` `Embedded C++`
+`PCA9685` `Servo Motors`
+`PWM Control` `Sensor Fusion`
+
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/6DOF-Robotic-Arm-Control-System)
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&amp;w=1200&amp;auto=format&amp;fit=crop" width="100%" alt="6DOF Robotic Arm"/>
+<!-- ALTERNATIVE GITHUB CARD:
+<a href="https://github.com/Ninadlokhande/6DOF-Robotic-Arm-Control-System"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/6DOF-Robotic-Arm-Control-System" width="100%"/></a> 
+-->
+</td>
+</tr>
+</table>
+
+---
+
+# 🚗 Used Car Price Estimation AI
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+- Real-world used car market price predictions.
+- Random Forest Regressor implementation.
+- Data cleaning, feature engineering, and processing.
+- Categorical encoding and evaluation metrics logic.
+
+### 🛠 Tech Stack
+`Python` `Machine Learning`
+`Jupyter Notebook`
+`Pandas` `Scikit-Learn`
+
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/car_Price_Estimstion)
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&amp;w=1200&amp;auto=format&amp;fit=crop" width="100%" alt="Used Car AI"/>
+<!-- ALTERNATIVE GITHUB CARD: 
+<a href="https://github.com/Ninadlokhande/car_Price_Estimstion"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/car_Price_Estimstion" width="100%"/></a> 
+-->
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Student Management System
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+- Built a native full-stack portal using Core Java and built-in Java HTTP Server without heavy external frameworks.
+- Created a relational schema across 7+ modules using JDBC PreparedStatements.
+- Developed an asynchronous web front-end leveraging Fetch API endpoints for low-latency CRUD data interchange.
+
+### 🛠 Tech Stack
+`Core Java` `Java HTTP Server`  
+`JDBC` `MySQL` `JavaScript (Fetch API)`
+
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/Student-Management-System)
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&amp;w=1200&amp;auto=format&amp;fit=crop" width="100%" alt="Student Management UI"/>
+<!-- ALTERNATIVE GITHUB CARD: 
+<a href="https://github.com/Ninadlokhande/Student-Management-System"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/Student-Management-System" width="100%"/></a> 
+-->
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 CIFAR-10 Image Classification
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+- Trained a deep Convolutional Neural Network (CNN) with dropout and pooling layers to classify the CIFAR-10 dataset.
+- Implemented image normalization, multi-layer architecture, model training pipelines, and single-image prediction algorithms.
+
+### 🛠 Tech Stack
+`Python` `TensorFlow` `Keras`  
+`Deep Learning` `CNN`
+
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/imageRecognation_cifardataset)
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&amp;w=1200&amp;auto=format&amp;fit=crop" width="100%" alt="CNN AI Image"/>
+<!-- ALTERNATIVE GITHUB CARD: 
+<a href="https://github.com/Ninadlokhande/imageRecognation_cifardataset"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/imageRecognation_cifardataset" width="100%"/></a> 
+-->
 </td>
 </tr>
 </table>
@@ -334,7 +377,7 @@ Cloud Connectivity
 
 ### 🚀 Features
 - Sensor-based autonomous mobile platforms designed for high-speed line following and maze solving.
-- Implemented closed-loop PID control using IR sensor arrays to dynamically adjust PWM motor duty cycles for trajectory correction.
+- Implemented closed-loop PID control using IR sensor arrays to dynamically adjust PWM motor duty cycles.
 - Integrated motor drivers and real-time path correction decision logic.
 
 ### 🛠 Tech Stack
@@ -346,25 +389,152 @@ Cloud Connectivity
 </td>
 <td width="50%">
 <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&amp;w=1200&amp;auto=format&amp;fit=crop" width="100%" alt="Line Follower Robot"/>
+<!-- ALTERNATIVE GITHUB CARD: 
+<a href="https://github.com/Ninadlokhande/Line-Follower"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/Line-Follower" width="100%"/></a> 
+-->
+</td>
+</tr>
+</table>
+
+<br><br>
+
+---
+
+# 🛠️ Level 3: Core Foundations & Algorithms
+*Essential foundational projects focusing on Object-Oriented Programming (OOP), Mathematics, and Sensor Logic.*
+
+<br>
+
+# 📐 Kinematics of 2DOF
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+- Core robotic mathematics and mathematical modeling.
+- Forward and inverse kinematic algorithms for a 2 Degrees of Freedom planar system.
+- Joint angle calculations and coordinate mapping logic.
+
+### 🛠 Tech Stack
+`C++` `Robotic Mathematics`  
+`Algorithms` `Geometry`
+
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/Kinematics_of-2DOF)
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?q=80&amp;w=1200&amp;auto=format&amp;fit=crop" width="100%" alt="Math and Kinematics Concept"/>
+<!-- ALTERNATIVE GITHUB CARD: 
+<a href="https://github.com/Ninadlokhande/Kinematics_of-2DOF"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/Kinematics_of-2DOF" width="100%"/></a> 
+-->
 </td>
 </tr>
 </table>
 
 ---
 
-### 📦 Additional Projects Matrix
+# 🎮 Mad Libs Java Game
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+- Interactive terminal gameplay built entirely from scratch.
+- Dynamic story generation logic using string manipulation.
+- Multiple difficulty modes and robust input validation.
+- Clean Console UI and strict Object-Oriented principles.
+
+### 🛠 Tech Stack
+`Java` `OOP`  
+`Game Logic` `Console App`
+
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/mad_lab_game)
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&amp;w=1200&amp;auto=format&amp;fit=crop" width="100%" alt="Mad Libs Game"/>
+<!-- ALTERNATIVE GITHUB CARD: If the image above fails, replace it with this:
+<a href="https://github.com/Ninadlokhande/mad_lab_game"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/mad_lab_game" width="100%"/></a> 
+-->
+</td>
+</tr>
+</table>
+
+---
+
+# 🚒 Res-Q Navigator
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+- Autonomous rescue robot integrating Arduino Uno, L298N driver, and N20 motors.
+- Fire and smoke detection using flame and MQ2 sensors, plus DHT11 telemetry.
+- Configured UART serial communication via HC-05 Bluetooth for wireless control.
+
+### 🛠 Tech Stack
+`Arduino Uno` `UART` `L298N` `N20 Motors`  
+`HC-05` `MQ2` `DHT11` `Embedded Systems`
+
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/Res-Q-Navigator-)
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?q=80&amp;w=1200&amp;auto=format&amp;fit=crop" width="100%" alt="Rescue Robot"/>
+<!-- ALTERNATIVE GITHUB CARD:
+<a href="https://github.com/Ninadlokhande/Res-Q-Navigator-"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/Res-Q-Navigator-" width="100%"/></a> 
+-->
+</td>
+</tr>
+</table>
+
+---
+
+# 👁️ OpenCV-to-Serial Color Detector
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+- OpenCV object & color detection processing.
+- Real-time video frame manipulation.
+- PySerial integration for hardware triggering.
+- Bridging high-level CV scripts with embedded MCUs.
+
+### 🛠 Tech Stack
+`Python` `OpenCV`
+`NumPy` `PySerial`
+`Arduino Nano`
+
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/camera-vision_colour-detect)
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&amp;w=1200&amp;auto=format&amp;fit=crop" width="100%" alt="OpenCV Detector"/>
+<!-- ALTERNATIVE GITHUB CARD: 
+<a href="https://github.com/Ninadlokhande/camera-vision_colour-detect"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/camera-vision_colour-detect" width="100%"/></a> 
+-->
+</td>
+</tr>
+</table>
+
+---
+
+### 📦 Other Exploratory Projects Matrix
 
 <div align="center">
 
 | 🚀 Project Name | 🛠 Domain / Core Technologies | 🔗 Repository Link |
 |---|---|---|
-| **Used Car Price AI** | `Python`, `Machine Learning`, `Scikit-Learn` | [View Repository](https://github.com/Ninadlokhande/car_Price_Estimstion) |
-| **6DOF Robotic Arm** | `C++`, `PCA9685`, `Kinematics`, `Sensor Fusion` | [View Repository](https://github.com/Ninadlokhande/6DOF-Robotic-Arm-Control-System) |
-| **Mad Libs Java Game** | `Java`, `Game Logic`, `Console UI` | [View Repository](https://github.com/Ninadlokhande/mad_lab_game) |
-| **Kinematics of 2DOF** | `C++`, `Robotic Mathematics` | [View Repository](https://github.com/Ninadlokhande/Kinematics_of-2DOF) |
 | **Sales Prediction ML** | `Python`, `Jupyter Notebook`, `Data Science` | [View Repository](https://github.com/Ninadlokhande/Sales_Prediction) |
-| **OpenCV Color Detector**| `Python`, `OpenCV`, `PySerial`, `Arduino` | [View Repository](https://github.com/Ninadlokhande/camera-vision_colour-detect) |
+| **Area Calculator Java**| `Java`, `Mathematics`, `Console UI` | [View Repository](https://github.com/Ninadlokhande/AreaCalculatorJava) |
 | **OCoN Robot Assistant** | `Robotics`, `Automation` | [View Repository](https://github.com/Ninadlokhande/OCoN-the-Robot-Assistant) |
+| **IR Maze Solver** | `Embedded C++`, `Sensor Arrays` | [View Repository](https://github.com/Ninadlokhande/ir-maze-solver) |
+| **Ultrasonic Maze Solver**| `Embedded C++`, `Acoustic Sensors` | [View Repository](https://github.com/Ninadlokhande/Ultrasonic-maze-solver) |
 
 </div>
 
