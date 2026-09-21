@@ -1,3 +1,5 @@
+<!-- ========================= HEADER ========================= -->
+
 <h1 align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=1200&lines=Hi+👋+I'm+Ninad+Lokhande;Embedded+Systems+Engineer;Robotics+%7C+Computer+Vision+Developer;AI,+ML,+%26+Data+Science;Building+Real-World+Intelligent+Systems" />
@@ -31,7 +33,7 @@ Engineering student specializing in Electronics and Telecommunication with an Ho
 
 ---
 
-# 🐍 GitHub Contribution Snake
+# 🐍 GitHub Contribution Snake Animation
 
 <div align="center">
   <picture>
@@ -176,62 +178,101 @@ Tableau & Jupyter
 
 ---
 
-# 🏆 Flagship Engineering Projects
+# 🤖 1. Electronics & Robotics Projects
 
-## 🤖 Raspberry Pi Vision Pick-and-Place System
+## 🏗️ Featured Robotics
+
+### 🦾 Raspberry Pi Vision Pick-and-Place System
 *Computer-vision based 6DOF robotic arm system using Raspberry Pi 4B, OpenCV, and PCA9685.*
 - **Tech Stack:** `Python` `OpenCV` `Raspberry Pi 4B` `PCA9685` `Servo Control` `Inverse Kinematics`
 - **Link:** [View Repository](https://github.com/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System)
 
-## 🦾 6DOF Robotic Arm Control System
+### 🦾 6DOF Robotic Arm Control System
 *6-axis robotic manipulation using PCA9685 PWM control, Bluetooth communication, and embedded motion control.*
 - **Tech Stack:** `Arduino` `Embedded C++` `PCA9685` `Robotics` `Sensor Fusion`
 - **Link:** [View Repository](https://github.com/Ninadlokhande/6DOF-Robotic-Arm-Control-System)
 
-## 👁️ OpenCV-to-Serial Color Detector
+### 👁️ OpenCV-to-Serial Color Detector
 *Real-time video processing bridging high-level Computer Vision with embedded microcontrollers.*
 - **Tech Stack:** `Python` `OpenCV` `NumPy` `PySerial` `Arduino Nano`
 - **Link:** [View Repository](https://github.com/Ninadlokhande/camera-vision_colour-detect)
 
-## 🌱 AgriSentinel IoT Automation System
+### 🌱 AgriSentinel IoT Automation System
 *ESP32-based multi-channel IoT automation with custom PCB layout, Blynk cloud integration, and telemetry.*
 - **Tech Stack:** `ESP32` `IoT` `Blynk` `KiCad PCB Design` `Relay Architecture`
 - **Link:** [View Repository](https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System)
 
-## 🏥 MAACare-Ai Platform
-*Centralized maternal and child healthcare management platform with role-based UI flow.*
-- **Tech Stack:** `System Architecture` `Software Engineering` `UI/UX Flow`
-- **Link:** [View Repository](https://github.com/Ninadlokhande/MAACare-Ai)
+### 🛣️ PID Line Follower Robot
+*High-speed navigation using PID tuning, IR sensor arrays, and autonomous correction systems.*
+- **Tech Stack:** `Embedded C++` `PID Control` `IR Sensors` `Motor Drivers`
+- **Link:** [View Repository](https://github.com/Ninadlokhande/Line-Follower)
 
-## 🚗 Used Car Price Estimation AI
-*Machine learning model implementation utilizing Random Forest Regressor for market price predictions.*
-- **Tech Stack:** `Python` `Jupyter Notebook` `Pandas` `Scikit-Learn` `Machine Learning`
-- **Link:** [View Repository](https://github.com/Ninadlokhande/car_Price_Estimstion)
+### 🚒 Res-Q Navigator
+*Emergency response robot with fire/smoke detection and Bluetooth communication.*
+- **Tech Stack:** `C++` `MQ2/DHT11` `Bluetooth` `Embedded Systems`
+- **Link:** [View Repository](https://github.com/Ninadlokhande/Res-Q-Navigator-)
 
 ---
 
-# 💻 Additional Software & Robotics Projects
+## 🔌 Additional Embedded Projects
 
 <div align="center">
 
 | 🚀 Project Name | 🛠 Core Technologies | 🔗 Repository |
 |---|---|---|
-| **Student Management System** | `Java`, `OOP`, `JDBC`, `MySQL` | [Repo Link](https://github.com/Ninadlokhande/Student-Management-System) |
-| **Res-Q Navigator** | `C++`, `MQ2/DHT11`, `Bluetooth` | [Repo Link](https://github.com/Ninadlokhande/Res-Q-Navigator-) |
-| **PID Line Follower** | `Embedded C++`, `PID Control`, `IR` | [Repo Link](https://github.com/Ninadlokhande/Line-Follower) |
-| **Mad Libs Java Game** | `Java`, `Game Logic`, `Console UI` | [Repo Link](https://github.com/Ninadlokhande/mad_lab_game) |
-| **Area Calculator** | `Java`, `Mathematics`, `OOP` | [Repo Link](https://github.com/Ninadlokhande/AreaCalculatorJava) |
-| **Play-Sphere** | `Software Dev` | [Repo Link](https://github.com/Ninadlokhande/Play-Sphere) |
-| **Stm_ALL** | `STM32CubeIDE`, `ARM Cortex` | [Repo Link](https://github.com/Ninadlokhande/Stm_ALL) |
-| **Sales Prediction ML** | `Python`, `Jupyter Notebook` | [Repo Link](https://github.com/Ninadlokhande/Sales_Prediction) |
-| **Image Recognition (CIFAR)** | `Python`, `AI/ML` | [Repo Link](https://github.com/Ninadlokhande/imageRecognation_cifardataset) |
-| **Unemployment Analysis** | `Data Science`, `Pandas` | [Repo Link](https://github.com/Ninadlokhande/Unemployment_Analysis) |
-| **Iris Flower Classification** | `Python`, `Machine Learning` | [Repo Link](https://github.com/Ninadlokhande/Iris_Flower_Classification) |
 | **Kinematics of 2DOF** | `C++`, `Robotic Math` | [Repo Link](https://github.com/Ninadlokhande/Kinematics_of-2DOF) |
 | **OCoN Robot Assistant** | `Robotics`, `Automation` | [Repo Link](https://github.com/Ninadlokhande/OCoN-the-Robot-Assistant) |
 | **IR Maze Solver** | `Embedded C++`, `Sensor Arrays` | [Repo Link](https://github.com/Ninadlokhande/ir-maze-solver) |
 | **Ultrasonic Maze Solver** | `Embedded C++`, `Acoustic Sensors` | [Repo Link](https://github.com/Ninadlokhande/Ultrasonic-maze-solver) |
 | **IoT Kit Internship** | `IoT`, `C++` | [Repo Link](https://github.com/Ninadlokhande/IOT-Kit-Internship) |
+| **Stm_ALL** | `STM32CubeIDE`, `ARM Cortex` | [Repo Link](https://github.com/Ninadlokhande/Stm_ALL) |
+
+</div>
+
+---
+
+# 💻 2. Software & AI Projects
+
+## 🧠 Featured Software & AI
+
+### 🏥 MAACare-Ai Platform
+*Centralized maternal and child healthcare management platform with role-based UI flow.*
+- **Tech Stack:** `System Architecture` `Software Engineering` `UI/UX Flow`
+- **Link:** [View Repository](https://github.com/Ninadlokhande/MAACare-Ai)
+
+### 🚗 Used Car Price Estimation AI
+*Machine learning model implementation utilizing Random Forest Regressor for market price predictions.*
+- **Tech Stack:** `Python` `Jupyter Notebook` `Pandas` `Scikit-Learn` `Machine Learning`
+- **Link:** [View Repository](https://github.com/Ninadlokhande/car_Price_Estimstion)
+
+### 📚 Student Management System
+*Complete CRUD operations, OOP architecture, file handling, and validation workflows.*
+- **Tech Stack:** `Java` `OOP` `JDBC` `MySQL` `Collections Framework`
+- **Link:** [View Repository](https://github.com/Ninadlokhande/Student-Management-System)
+
+### 🧮 Area Calculator Java
+*Shape-based geometric computation utilizing strict Java OOP concepts.*
+- **Tech Stack:** `Java` `OOP` `Mathematics`
+- **Link:** [View Repository](https://github.com/Ninadlokhande/AreaCalculatorJava)
+
+### 🎮 Mad Libs Java Game
+*Interactive console gameplay with dynamic stories and difficulty modes.*
+- **Tech Stack:** `Java` `Game Logic` `OOP`
+- **Link:** [View Repository](https://github.com/Ninadlokhande/mad_lab_game)
+
+---
+
+## 📊 Additional AI & Data Projects
+
+<div align="center">
+
+| 🚀 Project Name | 🛠 Core Technologies | 🔗 Repository |
+|---|---|---|
+| **Sales Prediction ML** | `Python`, `Jupyter Notebook` | [Repo Link](https://github.com/Ninadlokhande/Sales_Prediction) |
+| **Image Recognition (CIFAR)** | `Python`, `AI/ML` | [Repo Link](https://github.com/Ninadlokhande/imageRecognation_cifardataset) |
+| **Unemployment Analysis** | `Data Science`, `Pandas` | [Repo Link](https://github.com/Ninadlokhande/Unemployment_Analysis) |
+| **Iris Flower Classification** | `Python`, `Machine Learning` | [Repo Link](https://github.com/Ninadlokhande/Iris_Flower_Classification) |
+| **Play-Sphere** | `Software Dev` | [Repo Link](https://github.com/Ninadlokhande/Play-Sphere) |
 
 </div>
 
