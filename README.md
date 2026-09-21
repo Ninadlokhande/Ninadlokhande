@@ -1,5 +1,3 @@
-<!-- ========================= HEADER ========================= -->
-
 <h1 align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=1200&lines=Hi+👋+I'm+Ninad+Lokhande;Embedded+Systems+Engineer;Robotics+%7C+Computer+Vision+Developer;AI,+ML,+%26+Data+Science;Building+Real-World+Intelligent+Systems" />
@@ -178,43 +176,203 @@ Tableau & Jupyter
 
 ---
 
-# 🤖 1. Electronics & Robotics Projects
+# 🤖 1. Electronics & Robotics Flagship Projects
 
-## 🏗️ Featured Robotics
+<br>
 
-### 🦾 Raspberry Pi Vision Pick-and-Place System
-*Computer-vision based 6DOF robotic arm system using Raspberry Pi 4B, OpenCV, and PCA9685.*
-- **Tech Stack:** `Python` `OpenCV` `Raspberry Pi 4B` `PCA9685` `Servo Control` `Inverse Kinematics`
-- **Link:** [View Repository](https://github.com/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System)
+# 🦾 Raspberry Pi Vision Pick-and-Place System
 
-### 🦾 6DOF Robotic Arm Control System
-*6-axis robotic manipulation using PCA9685 PWM control, Bluetooth communication, and embedded motion control.*
-- **Tech Stack:** `Arduino` `Embedded C++` `PCA9685` `Robotics` `Sensor Fusion`
-- **Link:** [View Repository](https://github.com/Ninadlokhande/6DOF-Robotic-Arm-Control-System)
+<table>
+<tr>
+<td width="50%">
 
-### 👁️ OpenCV-to-Serial Color Detector
-*Real-time video processing bridging high-level Computer Vision with embedded microcontrollers.*
-- **Tech Stack:** `Python` `OpenCV` `NumPy` `PySerial` `Arduino Nano`
-- **Link:** [View Repository](https://github.com/Ninadlokhande/camera-vision_colour-detect)
+### 🚀 Features
 
-### 🌱 AgriSentinel IoT Automation System
-*ESP32-based multi-channel IoT automation with custom PCB layout, Blynk cloud integration, and telemetry.*
-- **Tech Stack:** `ESP32` `IoT` `Blynk` `KiCad PCB Design` `Relay Architecture`
-- **Link:** [View Repository](https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System)
+- Raspberry Pi 4B automation
+- OpenCV object detection
+- USB webcam tracking
+- PCA9685 servo control
+- Autonomous pick-and-place workflow
+- Multi-servo robotic coordination
 
-### 🛣️ PID Line Follower Robot
-*High-speed navigation using PID tuning, IR sensor arrays, and autonomous correction systems.*
-- **Tech Stack:** `Embedded C++` `PID Control` `IR Sensors` `Motor Drivers`
-- **Link:** [View Repository](https://github.com/Ninadlokhande/Line-Follower)
+### 🛠 Tech Stack
 
-### 🚒 Res-Q Navigator
-*Emergency response robot with fire/smoke detection and Bluetooth communication.*
-- **Tech Stack:** `C++` `MQ2/DHT11` `Bluetooth` `Embedded Systems`
-- **Link:** [View Repository](https://github.com/Ninadlokhande/Res-Q-Navigator-)
+`Python` `OpenCV` `Raspberry Pi`
+`PCA9685` `Servo Control`
+`Inverse Kinematics`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1535378917042-10a22c95931a?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔌 Additional Embedded Projects
+# 🦾 6DOF Robotic Arm Control System
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+
+- 6-axis robotic manipulation
+- PCA9685 PWM control
+- Bluetooth communication
+- Embedded motion control
+- Real-time robotic positioning
+
+### 🛠 Tech Stack
+
+`Arduino` `Embedded C++`
+`PCA9685` `Servo Motors`
+`PWM Control` `Sensor Fusion`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/6DOF-Robotic-Arm-Control-System
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
+
+# 👁️ OpenCV-to-Serial Color Detector
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+
+- OpenCV object & color detection
+- Real-time video processing
+- PySerial integration for hardware triggering
+- Bridging high-level CV with embedded MCUs
+
+### 🛠 Tech Stack
+
+`Python` `OpenCV`
+`NumPy` `PySerial`
+`Arduino Nano`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/camera-vision_colour-detect
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
+
+# 🌱 AgriSentinel IoT Automation System
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+
+- ESP32 IoT automation
+- Custom PCB design
+- Relay architecture
+- Blynk cloud integration
+- Real-time sensor telemetry
+
+### 🛠 Tech Stack
+
+`ESP32` `IoT`
+`Blynk` `KiCad`
+`PCB Design` `Embedded C++`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1586771107445-d3ca888129ff?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
+
+# 🛣 PID Line Follower Robot
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+
+- PID algorithm tuning
+- IR sensor arrays
+- High-speed track navigation
+- Autonomous path correction system
+
+### 🛠 Tech Stack
+
+`Embedded C++`
+`PID Control`
+`IR Sensors`
+`Motor Drivers`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/Line-Follower
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
+
+# 🚒 Res-Q Navigator
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+
+- Fire detection
+- Smoke detection via MQ2
+- Bluetooth remote communication
+- Automated water deployment systems
+
+### 🛠 Tech Stack
+
+`Arduino`
+`MQ2` `DHT11`
+`Bluetooth HC05`
+`Embedded Systems`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/Res-Q-Navigator-
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
+
+### 🔌 Other Embedded & Hardware Projects
 
 <div align="center">
 
@@ -229,40 +387,170 @@ Tableau & Jupyter
 
 </div>
 
----
-
-# 💻 2. Software & AI Projects
-
-## 🧠 Featured Software & AI
-
-### 🏥 MAACare-Ai Platform
-*Centralized maternal and child healthcare management platform with role-based UI flow.*
-- **Tech Stack:** `System Architecture` `Software Engineering` `UI/UX Flow`
-- **Link:** [View Repository](https://github.com/Ninadlokhande/MAACare-Ai)
-
-### 🚗 Used Car Price Estimation AI
-*Machine learning model implementation utilizing Random Forest Regressor for market price predictions.*
-- **Tech Stack:** `Python` `Jupyter Notebook` `Pandas` `Scikit-Learn` `Machine Learning`
-- **Link:** [View Repository](https://github.com/Ninadlokhande/car_Price_Estimstion)
-
-### 📚 Student Management System
-*Complete CRUD operations, OOP architecture, file handling, and validation workflows.*
-- **Tech Stack:** `Java` `OOP` `JDBC` `MySQL` `Collections Framework`
-- **Link:** [View Repository](https://github.com/Ninadlokhande/Student-Management-System)
-
-### 🧮 Area Calculator Java
-*Shape-based geometric computation utilizing strict Java OOP concepts.*
-- **Tech Stack:** `Java` `OOP` `Mathematics`
-- **Link:** [View Repository](https://github.com/Ninadlokhande/AreaCalculatorJava)
-
-### 🎮 Mad Libs Java Game
-*Interactive console gameplay with dynamic stories and difficulty modes.*
-- **Tech Stack:** `Java` `Game Logic` `OOP`
-- **Link:** [View Repository](https://github.com/Ninadlokhande/mad_lab_game)
+<br><br>
 
 ---
 
-## 📊 Additional AI & Data Projects
+# 💻 2. Software Engineering & AI Flagship Projects
+
+<br>
+
+# 🏥 MAACare-Ai Platform
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+
+- Centralized maternal and child healthcare management
+- Role-based user authentication flows
+- System architecture & UI platform design
+- Comprehensive healthcare tracking
+
+### 🛠 Tech Stack
+
+`System Architecture`
+`Software Engineering`
+`UI/UX Flow`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/MAACare-Ai
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
+
+# 🚗 Used Car Price Estimation AI
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+
+- Real-world used car market price predictions
+- Random Forest Regressor implementation
+- Data cleaning & feature engineering
+- Categorical encoding and evaluation metrics
+
+### 🛠 Tech Stack
+
+`Python` `Machine Learning`
+`Jupyter Notebook`
+`Pandas` `Scikit-Learn`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/car_Price_Estimstion
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Student Management System
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+
+- Menu-driven CRUD operations
+- Strict OOP architecture
+- Secure file handling
+- Validation workflows and database updates
+
+### 🛠 Tech Stack
+
+`Java` `OOP`
+`JDBC` `MySQL`
+`Collections Framework`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/Student-Management-System
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
+
+# 🧮 Area Calculator Java
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+
+- Automated geometry calculations
+- Shape-based computation formulas
+- Console application interface
+- Strict Java OOP concepts
+
+### 🛠 Tech Stack
+
+`Java`
+`OOP`
+`Mathematics`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/AreaCalculatorJava
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
+
+# 🎮 Mad Libs Java Game
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+
+- Interactive terminal gameplay
+- Dynamic story generation
+- Multiple difficulty modes
+- Clean Console UI
+
+### 🛠 Tech Stack
+
+`Java`
+`Game Logic`
+`OOP`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/mad_lab_game
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 Other AI, Data & Software Projects
 
 <div align="center">
 
@@ -275,6 +563,8 @@ Tableau & Jupyter
 | **Play-Sphere** | `Software Dev` | [Repo Link](https://github.com/Ninadlokhande/Play-Sphere) |
 
 </div>
+
+<br>
 
 ---
 
