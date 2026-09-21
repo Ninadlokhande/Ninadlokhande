@@ -1,3 +1,5 @@
+<!-- ========================= HEADER ========================= -->
+
 <h1 align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=1200&lines=Hi+👋+I'm+Ninad+Lokhande;Embedded+Systems+Engineer;Robotics+%7C+Computer+Vision+Developer;AI,+ML,+%26+Data+Science;Building+Real-World+Intelligent+Systems" />
@@ -27,7 +29,7 @@ Engineering student specializing in Electronics and Telecommunication with an Ho
 - 👁️ **Computer Vision:** OpenCV-based automation, real-time object tracking, sensor fusion
 - 🌐 **IoT & Automation:** Custom PCB design (KiCad/EAGLE), real-time telemetry, relay architecture
 - 🧠 **AI & Data Science:** Predictive modeling, data classification, Tableau dashboarding
-- 💻 **Software Engineering:** Java OOP, Python scripts, Linux environments, database connectivity
+- 💻 **Software Engineering:** Java OOP, Spring Boot, Python scripts, Linux environments, database connectivity
 
 ---
 
@@ -89,7 +91,7 @@ Engineering student specializing in Electronics and Telecommunication with an Ho
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,matlab,js,html,css,bash,mysql,linux,ubuntu,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,python,cpp,c,matlab,js,html,css,bash,mysql,linux,ubuntu,vscode"/>
 
 </p>
 
@@ -99,15 +101,15 @@ Engineering student specializing in Electronics and Telecommunication with an Ho
 
 <td align="center" width="220">
 
-<img src="https://skillicons.dev/icons?i=java" width="55"/>
+<img src="https://skillicons.dev/icons?i=java,spring" width="55"/>
 
-### ☕ Java
+### ☕ Java & Backend
 
-OOP  
-Collections  
-Multithreading  
+Java OOP  
+Spring Boot  
+Spring Security & JWT  
 JDBC & MySQL  
-Console Applications  
+WebSocket Architecture  
 
 </td>
 
@@ -115,11 +117,11 @@ Console Applications
 
 <img src="https://skillicons.dev/icons?i=python" width="55"/>
 
-### 🐍 Python
+### 🐍 Python & AI
 
-OpenCV  
+OpenCV Vision  
 Pandas & Scikit-Learn  
-MicroPython  
+Gemini API Integration  
 Serial Communication  
 Automation Scripts  
 
@@ -141,14 +143,14 @@ Optimization
 
 <td align="center" width="220">
 
-<img src="https://skillicons.dev/icons?i=linux" width="55"/>
+<img src="https://skillicons.dev/icons?i=react,linux" width="55"/>
 
-### 🐧 Environments
+### 🌐 Web & DevOps
 
+React.js  
 Ubuntu / Linux  
 STM32CubeIDE  
 PlatformIO & Thonny  
-Tableau & Jupyter  
 
 </td>
 
@@ -395,6 +397,39 @@ https://github.com/Ninadlokhande/Res-Q-Navigator-
 
 <br>
 
+# ⚽ PlaySphere — AI Sports Platform
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Features
+
+> *Book. Connect. Compete. Grow.*
+
+- **Shared Booking & Cost Splitting:** Open slots to the community and coordinate via chat with Booking ID/QR verification.
+- **AI Sports Assistant:** Conversational match & fitness guidance powered by Gemini API.
+- **Tournaments & Marketplaces:** Comprehensive organizer workflows, Coach hub, and Equipment marketplace.
+- **Real-Time Communication:** Interactive community chats and live slot alerts over WebSockets.
+
+### 🛠 Tech Stack
+
+`React.js` `Java Spring Boot` `MySQL`  
+`Spring Security / JWT` `WebSocket`  
+`Gemini API` `Cloudinary`
+
+🔗 Repository  
+https://github.com/Ninadlokhande/Play-Sphere
+
+</td>
+<td width="50%">
+<img src="https://images.unsplash.com/photo-1517649763962-0c623266ddc0?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
+
 # 🏥 MAACare-Ai Platform
 
 <table>
@@ -560,7 +595,6 @@ https://github.com/Ninadlokhande/mad_lab_game
 | **Image Recognition (CIFAR)** | `Python`, `AI/ML` | [Repo Link](https://github.com/Ninadlokhande/imageRecognation_cifardataset) |
 | **Unemployment Analysis** | `Data Science`, `Pandas` | [Repo Link](https://github.com/Ninadlokhande/Unemployment_Analysis) |
 | **Iris Flower Classification** | `Python`, `Machine Learning` | [Repo Link](https://github.com/Ninadlokhande/Iris_Flower_Classification) |
-| **Play-Sphere** | `Software Dev` | [Repo Link](https://github.com/Ninadlokhande/Play-Sphere) |
 
 </div>
 
