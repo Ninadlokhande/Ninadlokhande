@@ -2,17 +2,17 @@
 
 <h1 align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=1200&lines=Hi+👋+I'm+Ninad+Lokhande;Embedded+Systems+Engineer;Robotics+%7C+Computer+Vision+Developer;AI,+ML,+%26+Data+Science;Building+Real-World+Intelligent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=1200&lines=Hi+👋+I'm+Ninad+Lokhande;Embedded+Systems+Engineer;Robotics+%7C+Computer+Vision+Developer;AI,+ML,+%26+Data+Science;Building+Real-World+Intelligent+Systems" alt="Typing Header"/>
 
 </h1>
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=320&section=header&text=Embedded%20Systems%20%7C%20Robotics%20%7C%20Computer%20Vision&fontSize=34&fontColor=00E5FF&animation=fadeIn&fontAlignY=45&desc=AI%20%7C%20IoT%20%7C%20Software%20Engineering&descAlignY=62&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=320&section=header&text=Embedded%20Systems%20%7C%20Robotics%20%7C%20Computer%20Vision&fontSize=34&fontColor=00E5FF&animation=fadeIn&fontAlignY=45&desc=AI%20%7C%20IoT%20%7C%20Software%20Engineering&descAlignY=62&descSize=18" alt="Waving Banner"/>
 
 </p>
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ninadlokhande&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/><img src="https://img.shields.io/github/followers/Ninadlokhande?style=for-the-badge&color=00C2FF"/><img src="https://img.shields.io/github/stars/Ninadlokhande?style=for-the-badge&color=FFD700"/><img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/><img src="https://img.shields.io/badge/Focus-Embedded,%20Robotics%20%26%20AI-blueviolet?style=for-the-badge"/><img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Systems-red?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Ninadlokhande&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" alt="Profile Views"/><img src="https://img.shields.io/github/followers/Ninadlokhande?style=for-the-badge&color=00C2FF" alt="Followers"/><img src="https://img.shields.io/github/stars/Ninadlokhande?style=for-the-badge&color=FFD700" alt="Stars"/><img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" alt="Open Source"/><img src="https://img.shields.io/badge/Focus-Embedded,%20Robotics%20%26%20AI-blueviolet?style=for-the-badge" alt="Focus"/><img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Systems-red?style=for-the-badge" alt="Status"/>
 
 </p>
 
@@ -20,7 +20,7 @@
 
 # 🧠 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Coding GIF"/>
 
 Engineering student specializing in Electronics and Telecommunication with an Honors track in Artificial Intelligence, Machine Learning, and Data Science. I focus on building real-world intelligent systems combining:
 
@@ -49,21 +49,21 @@ Engineering student specializing in Electronics and Telecommunication with an Ho
 
 <p align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ninadlokhande&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ninadlokhande&theme=tokyonight" alt="Languages Card"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ninadlokhande&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ninadlokhande&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ninadlokhande&theme=tokyonight" alt="Commits Card"/>
 
 </p>
 
 <p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=tokyo-night&hide_border=true&area=true&line=00E5FF&point=00FFB3&color=00E5FF"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ninadlokhande&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+
+</p>
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=tokyo-night&hide_border=true&area=true&line=00E5FF&point=00FFB3&color=00E5FF" alt="Activity Graph"/>
 
 </p>
 
@@ -91,7 +91,7 @@ Engineering student specializing in Electronics and Telecommunication with an Ho
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,python,cpp,c,matlab,js,html,css,bash,mysql,linux,ubuntu,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,python,cpp,c,matlab,js,html,css,bash,mysql,linux,ubuntu,vscode" alt="Skills Icons"/>
 
 </p>
 
@@ -203,12 +203,13 @@ PlatformIO & Thonny
 `PCA9685` `Servo Control`
 `Inverse Kinematics`
 
-🔗 Repository  
-https://github.com/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System)
 
 </td>
 <td width="50%">
-<img src="https://images.unsplash.com/photo-1535378917042-10a22c95931a?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<a href="https://github.com/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System">
+  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System" width="100%" alt="Raspberry Pi Repo"/>
+</a>
 </td>
 </tr>
 </table>
@@ -235,12 +236,13 @@ https://github.com/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System
 `PCA9685` `Servo Motors`
 `PWM Control` `Sensor Fusion`
 
-🔗 Repository  
-https://github.com/Ninadlokhande/6DOF-Robotic-Arm-Control-System
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/6DOF-Robotic-Arm-Control-System)
 
 </td>
 <td width="50%">
-<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<a href="https://github.com/Ninadlokhande/6DOF-Robotic-Arm-Control-System">
+  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/6DOF-Robotic-Arm-Control-System" width="100%" alt="6DOF Arm Repo"/>
+</a>
 </td>
 </tr>
 </table>
@@ -266,12 +268,13 @@ https://github.com/Ninadlokhande/6DOF-Robotic-Arm-Control-System
 `NumPy` `PySerial`
 `Arduino Nano`
 
-🔗 Repository  
-https://github.com/Ninadlokhande/camera-vision_colour-detect
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/camera-vision_colour-detect)
 
 </td>
 <td width="50%">
-<img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<a href="https://github.com/Ninadlokhande/camera-vision_colour-detect">
+  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/camera-vision_colour-detect" width="100%" alt="OpenCV Detector Repo"/>
+</a>
 </td>
 </tr>
 </table>
@@ -298,12 +301,13 @@ https://github.com/Ninadlokhande/camera-vision_colour-detect
 `Blynk` `KiCad`
 `PCB Design` `Embedded C++`
 
-🔗 Repository  
-https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System)
 
 </td>
 <td width="50%">
-<img src="https://images.unsplash.com/photo-1586771107445-d3ca888129ff?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<a href="https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System">
+  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/AgriSentinel-IoT-Automation-System" width="100%" alt="AgriSentinel Repo"/>
+</a>
 </td>
 </tr>
 </table>
@@ -330,12 +334,13 @@ https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System
 `IR Sensors`
 `Motor Drivers`
 
-🔗 Repository  
-https://github.com/Ninadlokhande/Line-Follower
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/Line-Follower)
 
 </td>
 <td width="50%">
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<a href="https://github.com/Ninadlokhande/Line-Follower">
+  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/Line-Follower" width="100%" alt="Line Follower Repo"/>
+</a>
 </td>
 </tr>
 </table>
@@ -362,12 +367,13 @@ https://github.com/Ninadlokhande/Line-Follower
 `Bluetooth HC05`
 `Embedded Systems`
 
-🔗 Repository  
-https://github.com/Ninadlokhande/Res-Q-Navigator-
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/Res-Q-Navigator-)
 
 </td>
 <td width="50%">
-<img src="https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<a href="https://github.com/Ninadlokhande/Res-Q-Navigator-">
+  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/Res-Q-Navigator-" width="100%" alt="Res-Q Navigator Repo"/>
+</a>
 </td>
 </tr>
 </table>
@@ -418,12 +424,13 @@ https://github.com/Ninadlokhande/Res-Q-Navigator-
 `Spring Security / JWT` `WebSocket`  
 `Gemini API` `Cloudinary`
 
-🔗 Repository  
-https://github.com/Ninadlokhande/Play-Sphere
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/Play-Sphere)
 
 </td>
 <td width="50%">
-<img src="https://images.unsplash.com/photo-1517649763962-0c623266ddc0?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<a href="https://github.com/Ninadlokhande/Play-Sphere">
+  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/Play-Sphere" width="100%" alt="PlaySphere Repo"/>
+</a>
 </td>
 </tr>
 </table>
@@ -449,12 +456,13 @@ https://github.com/Ninadlokhande/Play-Sphere
 `Software Engineering`
 `UI/UX Flow`
 
-🔗 Repository  
-https://github.com/Ninadlokhande/MAACare-Ai
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/MAACare-Ai)
 
 </td>
 <td width="50%">
-<img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<a href="https://github.com/Ninadlokhande/MAACare-Ai">
+  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/MAACare-Ai" width="100%" alt="MAACare AI Repo"/>
+</a>
 </td>
 </tr>
 </table>
@@ -480,12 +488,13 @@ https://github.com/Ninadlokhande/MAACare-Ai
 `Jupyter Notebook`
 `Pandas` `Scikit-Learn`
 
-🔗 Repository  
-https://github.com/Ninadlokhande/car_Price_Estimstion
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/car_Price_Estimstion)
 
 </td>
 <td width="50%">
-<img src="https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<a href="https://github.com/Ninadlokhande/car_Price_Estimstion">
+  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/car_Price_Estimstion" width="100%" alt="Car Price AI Repo"/>
+</a>
 </td>
 </tr>
 </table>
@@ -511,12 +520,13 @@ https://github.com/Ninadlokhande/car_Price_Estimstion
 `JDBC` `MySQL`
 `Collections Framework`
 
-🔗 Repository  
-https://github.com/Ninadlokhande/Student-Management-System
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/Student-Management-System)
 
 </td>
 <td width="50%">
-<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<a href="https://github.com/Ninadlokhande/Student-Management-System">
+  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/Student-Management-System" width="100%" alt="Student Management Repo"/>
+</a>
 </td>
 </tr>
 </table>
@@ -542,12 +552,13 @@ https://github.com/Ninadlokhande/Student-Management-System
 `OOP`
 `Mathematics`
 
-🔗 Repository  
-https://github.com/Ninadlokhande/AreaCalculatorJava
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/AreaCalculatorJava)
 
 </td>
 <td width="50%">
-<img src="https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<a href="https://github.com/Ninadlokhande/AreaCalculatorJava">
+  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/AreaCalculatorJava" width="100%" alt="Area Calculator Repo"/>
+</a>
 </td>
 </tr>
 </table>
@@ -573,12 +584,13 @@ https://github.com/Ninadlokhande/AreaCalculatorJava
 `Game Logic`
 `OOP`
 
-🔗 Repository  
-https://github.com/Ninadlokhande/mad_lab_game
+🔗 [View Full Source Code](https://github.com/Ninadlokhande/mad_lab_game)
 
 </td>
 <td width="50%">
-<img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<a href="https://github.com/Ninadlokhande/mad_lab_game">
+  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/mad_lab_game" width="100%" alt="Mad Libs Repo"/>
+</a>
 </td>
 </tr>
 </table>
@@ -607,23 +619,23 @@ https://github.com/Ninadlokhande/mad_lab_game
 <p align="center">
 
 <a href="mailto:lokhandeninad1010@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-lokhandeninad1010%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-lokhandeninad1010%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ninad-lokhande-b71ba6281">
-<img src="https://img.shields.io/badge/LinkedIn-Ninad%20Lokhande-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Ninad%20Lokhande-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Ninadlokhande">
-<img src="https://img.shields.io/badge/GitHub-Ninadlokhande-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Ninadlokhande-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://leetcode.com/u/Ninad_lokhande/">
-<img src="https://img.shields.io/badge/LeetCode-Ninad__lokhande-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-Ninad__lokhande-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/lokhandenhvyl">
-<img src="https://img.shields.io/badge/GeeksforGeeks-lokhandenhvyl-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-lokhandenhvyl-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/>
 </a>
 
 </p>
