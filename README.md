@@ -54,7 +54,9 @@ I am an Electronics and Telecommunication Engineering student pursuing an Honour
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ninadlokhande&theme=tokyonight&hide_border=true)](https://github.com/Ninadlokhande)
 
+<br>
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=tokyo-night&hide_border=true&area=true&line=00E5FF&point=00FFB3&color=00E5FF)](https://github.com/Ninadlokhande)
 
 </div>
 
@@ -114,11 +116,15 @@ Cloud Connectivity
 ---
 
 # 🤖 1. Electronics & Robotics Projects
+
 <br>
+
 # 🦾 Raspberry Pi Vision Pick-and-Place System
+
 <table>
 <tr>
 <td width="50%">
+
 ### 🚀 Features
 - 6-DOF vision-guided robotic pick-and-place system using Raspberry Pi 4B and PCA9685 PWM control.
 - Implemented forward and inverse kinematics, joint limits, and position synchronization.
@@ -127,6 +133,7 @@ Cloud Connectivity
 ### 🛠 Tech Stack
 `Python` `OpenCV` `Raspberry Pi 4B`  
 `PCA9685` `Servo Control` `Kinematics`
+
 🔗 [View Full Source Code](https://github.com/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System)
 
 </td>
@@ -381,7 +388,7 @@ Cloud Connectivity
 <td width="50%">
 
 ### 🚀 Features
-- Centralized maternal and child healthcare management supporting 5 user roles (Mother, Doctor, Hospital, ASHA Worker, Admin).
+- Centralized maternal and child healthcare management supporting 5 user roles.
 - Integrated Firebase Authentication and Cloud Firestore for role-based access control.
 - Extensible multi-provider AI communication layer interfacing OpenAI, Gemini, Groq, and OpenRouter APIs.
 - Integrated Cloudinary media services and custom video playback pipelines.
@@ -394,7 +401,7 @@ Cloud Connectivity
 
 </td>
 <td width="50%">
-<img src="[https://www.dreamstime.com/mothers-love-moms-baby-logo-designs-icon-medicine-sleep-logotype-childhood-flat-breastfeeding-concept-female-outline-drawing-image166250799](https://www.dreamstime.com/mothers-love-moms-baby-logo-designs-icon-medicine-sleep-logotype-childhood-flat-breastfeeding-concept-female-outline-drawing-image166250799)" width="100%" alt="MAACare AI Logo"/>
+<img src="https://images-workbench.99static.com/phV7MsdyuQ-3qEyWhWChqamRX20=/99designs-contests-attachments/148/148915/attachment_148915083" width="100%" alt="MAACare AI Logo"/>
 <!-- ALTERNATIVE GITHUB CARD: 
 <a href="https://github.com/Ninadlokhande/MAACare-Ai"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/MAACare-Ai" width="100%"/></a> 
 -->
