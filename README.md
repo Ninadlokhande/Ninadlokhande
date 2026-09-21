@@ -394,7 +394,7 @@ Cloud Connectivity
 
 </td>
 <td width="50%">
-<img src="https://www.dreamstime.com/mothers-love-moms-baby-logo-designs-icon-medicine-sleep-logotype-childhood-flat-breastfeeding-concept-female-outline-drawing-image166250799" width="100%" alt="MAACare AI Logo"/>
+<img src="[https://www.dreamstime.com/mothers-love-moms-baby-logo-designs-icon-medicine-sleep-logotype-childhood-flat-breastfeeding-concept-female-outline-drawing-image166250799](https://www.dreamstime.com/mothers-love-moms-baby-logo-designs-icon-medicine-sleep-logotype-childhood-flat-breastfeeding-concept-female-outline-drawing-image166250799)" width="100%" alt="MAACare AI Logo"/>
 <!-- ALTERNATIVE GITHUB CARD: 
 <a href="https://github.com/Ninadlokhande/MAACare-Ai"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/MAACare-Ai" width="100%"/></a> 
 -->
