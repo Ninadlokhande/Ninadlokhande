@@ -63,7 +63,8 @@ Engineering student specializing in Electronics and Telecommunication with an Ho
 
 <p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph"/>
+<!-- Fixed Activity Graph with reliable parameters instead of buggy themes -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ninadlokhande&bg_color=0f0c29&color=00E5FF&line=00E5FF&point=00FFB3&area=true&hide_border=true" alt="Activity Graph"/>
 
 </p>
 
@@ -208,6 +209,9 @@ PlatformIO & Thonny
 </td>
 <td width="50%">
 <img src="https://images.unsplash.com/photo-1535378917042-10a22c95931a?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Raspberry Pi Pick and Place"/>
+<!-- ALTERNATIVE GITHUB CARD: If the image above fails, replace it with this:
+<a href="https://github.com/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/RaspberryPi-6DOF-Vision-Pick-and-Place-System" width="100%"/></a> 
+-->
 </td>
 </tr>
 </table>
@@ -238,9 +242,10 @@ PlatformIO & Thonny
 
 </td>
 <td width="50%">
-<a href="https://github.com/Ninadlokhande/6DOF-Robotic-Arm-Control-System">
-  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/6DOF-Robotic-Arm-Control-System" width="100%" alt="6DOF Arm Repo"/>
-</a>
+<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1200&auto=format&fit=crop" width="100%" alt="6DOF Robotic Arm"/>
+<!-- ALTERNATIVE GITHUB CARD: If the image above fails, replace it with this:
+<a href="https://github.com/Ninadlokhande/6DOF-Robotic-Arm-Control-System"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/6DOF-Robotic-Arm-Control-System" width="100%"/></a> 
+-->
 </td>
 </tr>
 </table>
@@ -270,9 +275,10 @@ PlatformIO & Thonny
 
 </td>
 <td width="50%">
-<a href="https://github.com/Ninadlokhande/camera-vision_colour-detect">
-  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/camera-vision_colour-detect" width="100%" alt="OpenCV Detector Repo"/>
-</a>
+<img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=1200&auto=format&fit=crop" width="100%" alt="OpenCV Detector"/>
+<!-- ALTERNATIVE GITHUB CARD: If the image above fails, replace it with this:
+<a href="https://github.com/Ninadlokhande/camera-vision_colour-detect"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/camera-vision_colour-detect" width="100%"/></a> 
+-->
 </td>
 </tr>
 </table>
@@ -303,9 +309,10 @@ PlatformIO & Thonny
 
 </td>
 <td width="50%">
-<a href="https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System">
-  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/AgriSentinel-IoT-Automation-System" width="100%" alt="AgriSentinel Repo"/>
-</a>
+<img src="https://images.unsplash.com/photo-1586771107445-d3ca888129ff?q=80&w=1200&auto=format&fit=crop" width="100%" alt="AgriSentinel System"/>
+<!-- ALTERNATIVE GITHUB CARD: If the image above fails, replace it with this:
+<a href="https://github.com/Ninadlokhande/AgriSentinel-IoT-Automation-System"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/AgriSentinel-IoT-Automation-System" width="100%"/></a> 
+-->
 </td>
 </tr>
 </table>
@@ -336,9 +343,10 @@ PlatformIO & Thonny
 
 </td>
 <td width="50%">
-<a href="https://github.com/Ninadlokhande/Line-Follower">
-  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/Line-Follower" width="100%" alt="Line Follower Repo"/>
-</a>
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Line Follower Robot"/>
+<!-- ALTERNATIVE GITHUB CARD: If the image above fails, replace it with this:
+<a href="https://github.com/Ninadlokhande/Line-Follower"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/Line-Follower" width="100%"/></a> 
+-->
 </td>
 </tr>
 </table>
@@ -370,6 +378,9 @@ PlatformIO & Thonny
 </td>
 <td width="50%">
 <img src="https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Rescue Robot"/>
+<!-- ALTERNATIVE GITHUB CARD: If the image above fails, replace it with this:
+<a href="https://github.com/Ninadlokhande/Res-Q-Navigator-"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/Res-Q-Navigator-" width="100%"/></a> 
+-->
 </td>
 </tr>
 </table>
@@ -424,9 +435,10 @@ PlatformIO & Thonny
 
 </td>
 <td width="50%">
-<a href="https://github.com/Ninadlokhande/Play-Sphere">
-  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/Play-Sphere" width="100%" alt="PlaySphere Repo"/>
-</a>
+<img src="https://images.unsplash.com/photo-1517649763962-0c623266ddc0?q=80&w=1200&auto=format&fit=crop" width="100%" alt="PlaySphere AI"/>
+<!-- ALTERNATIVE GITHUB CARD: If the image above fails, replace it with this:
+<a href="https://github.com/Ninadlokhande/Play-Sphere"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/Play-Sphere" width="100%"/></a> 
+-->
 </td>
 </tr>
 </table>
@@ -456,9 +468,10 @@ PlatformIO & Thonny
 
 </td>
 <td width="50%">
-<a href="https://github.com/Ninadlokhande/MAACare-Ai">
-  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/MAACare-Ai" width="100%" alt="MAACare AI Repo"/>
-</a>
+<img src="ChatGPT Image Aug 10, 2026, 12_21_13 PM.png" width="100%" alt="MAACare AI Logo"/>
+<!-- ALTERNATIVE GITHUB CARD: If the image above fails, replace it with this:
+<a href="https://github.com/Ninadlokhande/MAACare-Ai"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/MAACare-Ai" width="100%"/></a> 
+-->
 </td>
 </tr>
 </table>
@@ -488,9 +501,10 @@ PlatformIO & Thonny
 
 </td>
 <td width="50%">
-<a href="https://github.com/Ninadlokhande/car_Price_Estimstion">
-  <img src="https://opengraph.githubassets.com/1/Ninadlokhande/car_Price_Estimstion" width="100%" alt="Car Price AI Repo"/>
-</a>
+<img src="https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Used Car AI"/>
+<!-- ALTERNATIVE GITHUB CARD: If the image above fails, replace it with this:
+<a href="https://github.com/Ninadlokhande/car_Price_Estimstion"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/car_Price_Estimstion" width="100%"/></a> 
+-->
 </td>
 </tr>
 </table>
@@ -521,6 +535,9 @@ PlatformIO & Thonny
 </td>
 <td width="50%">
 <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Student Management UI"/>
+<!-- ALTERNATIVE GITHUB CARD: If the image above fails, replace it with this:
+<a href="https://github.com/Ninadlokhande/Student-Management-System"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/Student-Management-System" width="100%"/></a> 
+-->
 </td>
 </tr>
 </table>
@@ -551,6 +568,9 @@ PlatformIO & Thonny
 </td>
 <td width="50%">
 <img src="https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Area Calculator Concept"/>
+<!-- ALTERNATIVE GITHUB CARD: If the image above fails, replace it with this:
+<a href="https://github.com/Ninadlokhande/AreaCalculatorJava"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/AreaCalculatorJava" width="100%"/></a> 
+-->
 </td>
 </tr>
 </table>
@@ -581,6 +601,9 @@ PlatformIO & Thonny
 </td>
 <td width="50%">
 <img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Mad Libs Game"/>
+<!-- ALTERNATIVE GITHUB CARD: If the image above fails, replace it with this:
+<a href="https://github.com/Ninadlokhande/mad_lab_game"><img src="https://opengraph.githubassets.com/1/Ninadlokhande/mad_lab_game" width="100%"/></a> 
+-->
 </td>
 </tr>
 </table>
