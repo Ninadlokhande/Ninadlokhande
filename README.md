@@ -31,7 +31,7 @@ I am an Electronics and Telecommunication Engineering student pursuing an Honour
 
 ---
 
-# 🐍 GitHub Contribution Snake Animation
+#  GitHub Contribution
 
 <div align="center">
   <picture>
